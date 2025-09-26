@@ -1,0 +1,14 @@
+jupyter
+pandas
+numpy>=2.1.1
+matplotlib
+seaborn
+mysql-connector-python
+openpyxl
+requests
+geopandas
+shapely
+fiona
+pyproj
+rtree
+great_expectations==1.6.2

@@ -1,0 +1,801 @@
+customer_id,purchase_date,product_category,amount,transaction_id,full_name,email,phone,address,signup_date,name,gender,age
+230,2025-05-11,Clothing,181.73,1034, Adrian Robinson ,adrian.robinson3506@aol.com,No especificado," 417 Washington Blvd, Apt 34, Centerville, FL 06998 ",No especificado,Bob,Female,39
+630,2025-06-19,Electronics,442.32,1020,Caleb Rodriguez,caleb.rodriguez4367@hotmail.com,+1 (572) 662-5444,"7375 Oak St, Greenville, IL 39198",2023-03-13,George,Female,45
+867,2025-02-16,Home & Kitchen,263.12,1049,Zoey Lopez,zoey.lopez5536@mail.com,+1 (705) 486-9036,"3966 Pine Ave, Apt 18, Greenville, IL 25010",2022-05-07,Elena,Female,61
+763,2025-02-13,Home & Kitchen,434.05,1058, Queen Clark ,queen.clark2238@hotmail.com,+1 (978) 771-6866,"1243 Washington Blvd, Arlington, TX 41545",2019-08-31,Carlos,Male,61
+758,2025-04-15,Clothing,489.6,1077,Noah Clark,noah.clark7969@gmail.com,+1 (485) 419-3676,"6686 Cedar Ln, Apt 59, Franklin, NY 76676",2021-11-05,Diana,Female,52
+332,No especificado,Home & Kitchen,75.58,1018,Ian Anderson,ian.anderson6686@hotmail.com,+1 (299) 894-9708,"2406 Pine Ave, Greenville, TX 69890",2021-08-02,George,Female,45
+553,2025-08-27,Clothing,403.2,1048,Faith Brooks,faith.brooks0882@protonmail.com,No especificado,"3243 Hillcrest Ave, Centerville, TX 28604",2021-06-17,Hannah,Female,33
+999,2025-04-14,Sports,305.51,1053,Frank Foster,frank.foster6200@protonmail.com,+1 (609) 287-1080," 7204 Elm St, Centerville, IL 00057 ",2022-09-18,Frank,Female,23
+731,2025-06-15,Toys,325.0,1057,No especificado,noah.wilson8931@hotmail.com,+1 (620) 381-6006," 1107 Sunset Blvd, Arlington, NY 69886 ",2022-03-13,Alice,Female,55
+349,2025-08-22,Home & Kitchen,169.43,10181,Noah Miller,noah.miller3373@mail.com,+1 (974) 875-3876,"734 Maple Dr, Arlington, NY 61104",2020-07-09,Elena,Female,47
+667,2025-04-03,Sports,387.6,1095, Ursula Robinson ,ursula.robinson3252@protonmail.com,+1 (518) 428-3111," 3234 Sunset Blvd, Centerville, FL 40171 ",No especificado,Hannah,Male,46
+677,2025-05-13,Electronics,466.8,1021, Zoey Ramos ,zoey.ramos5007@gmail.com,No especificado,"9202 Washington Blvd, Fairview, TX 43325",2021-04-18,Hannah,Male,27
+279,2025-06-30,Home & Kitchen,127.18,1016,Daniel Sanders,daniel.sanders9400@protonmail.com,No especificado,"3637 Washington Blvd, Centerville, IL 72677",2020-07-31,Frank,Female,25
+347,2025-05-05,Sports,149.65,1019,Quincy Scott,quincy.scott1870@aol.com,+1 (978) 881-4047,"1464 Washington Blvd, Madison, IL 21431",2020-11-15,Carlos,Male,50
+899,2025-04-17,Clothing,233.55,1092, Riley Murphy ,riley.murphy3642@gmail.com,No especificado," 3972 Cedar Ln, Apt 96, Centerville, NY 65874 ",No especificado,Frank,Female,59
+457,2025-02-14,Toys,6.89,1025, Isaac Reyes ,isaac.reyes7010@aol.com,+1 (462) 581-4584," 5669 Washington Blvd, Riverside, TX 37565 ",2023-01-06,Carlos,Male,33
+60,2025-02-08,Clothing,144.35,1006, Penelope Flores ,penelope.flores3967@aol.com,+1 (467) 332-8411,"6245 Washington Blvd, Fairview, CA 17249",No especificado,Bob,Female,50
+926,2025-08-25,Home & Kitchen,190.4,1072,Felix Roberts,felix.roberts8993@hotmail.com,No especificado,"295 Pine Ave, Apt 85, Arlington, IL 15456",2019-10-05,Alice,Female,56
+797,2025-03-21,Toys,273.8,1010,Kelly Sanders,kelly.sanders7522@mail.com,+1 (478) 790-6807,"216 Oak St, Centerville, IL 84011",No especificado,Elena,Female,57
+424,2025-01-11,Electronics,377.95,1041,Gavin Young,gavin.young7962@outlook.com,+1 (959) 754-6535," 9974 Oak St, Riverside, FL 81361 ",2021-10-27,Alice,Female,51
+633,2025-02-21,Electronics,404.5,1032,Yvonne Lewis,yvonne.lewis3527@mail.com,No especificado,"6057 Main St, Springfield, CA 25535",2020-11-22,Carlos,Male,49
+586,2025-09-15,Sports,249.44,1002,Catherine Hernandez,catherine.hernandez8097@aol.com,+1 (415) 595-7005,"8536 Pine Ave, Arlington, CA 06506",2020-09-06,Frank,Male,60
+837,2025-05-08,Sports,458.73,10491,Adrian Perez,adrian.perez6888@hotmail.com,No especificado,"8458 Washington Blvd, Arlington, CA 55644",2020-12-19,Bob,Female,62
+343,2025-01-15,Toys,104.23,1067, Kevin Anderson ,kevin.anderson5874@protonmail.com,+1 (799) 504-6872,"1299 Washington Blvd, Clinton, TX 60722",2022-03-11,Elena,Female,54
+147,2025-08-11,Home & Kitchen,470.69,1082,Frank Ross,frank.ross2968@hotmail.com,+1 (806) 553-9384,"3409 Sunset Blvd, Greenville, CA 23045",2019-03-24,Alice,Female,43
+83,2025-01-11,Home & Kitchen,160.41,1037,Noah Cox,noah.cox8920@protonmail.com,+1 (772) 338-7470,"842 Pine Ave, Fairview, FL 85147",2022-09-17,Hannah,Male,46
+143,2025-06-23,Sports,459.16,1015, Emily Harris ,emily.harris3350@aol.com,No especificado,"4260 Main St, Apt 48, Arlington, CA 52010",2023-07-01,Elena,Female,57
+333,2025-08-14,Clothing,338.12,1031, Leo Hernandez ,leo.hernandez2215@mail.com,+1 (664) 668-2660,"1758 Pine Ave, Madison, IL 39894",2023-03-08,Diana,Female,53
+395,2025-07-04,Home & Kitchen,153.2,1004,Kara Garcia,kara.garcia6234@gmail.com,+1 (360) 787-1614,"1467 Cedar Ln, Apt 63, Springfield, TX 05346",2019-03-01,Carlos,Male,49
+785,2025-03-30,Sports,214.2,1024,Logan Edwards,logan.edwards8161@outlook.com,+1 (619) 322-2720,"5013 Hillcrest Ave, Apt 54, Centerville, IL 27320",2021-09-05,Carlos,Male,47
+873,2025-04-06,Sports,14.46,10241,Jane Taylor,jane.taylor2718@gmail.com,+1 (228) 581-3527,"9729 Main St, Apt 87, Madison, CA 84604",2020-10-18,Carlos,Male,23
+489,2025-07-04,Sports,40.22,1084,Delilah Carter,delilah.carter1814@gmail.com,No especificado," 5384 Washington Blvd, Arlington, CA 56568 ",2019-08-03,Alice,Female,50
+204,2025-07-18,Clothing,404.54,1008, William Gutierrez ,william.gutierrez2482@gmail.com,+1 (395) 518-3332,"1091 Lakeview Dr, Clinton, NY 40831",2019-06-16,Bob,Male,45
+216,2025-05-21,Sports,70.09,1040, Logan Murphy ,logan.murphy1045@protonmail.com,+1 (319) 586-9682,"3813 Hillcrest Ave, Arlington, TX 32031",2021-01-17,Elena,Female,24
+896,2025-05-26,Electronics,340.03,1060, Charlie Davis ,charlie.davis9464@gmail.com,No especificado,"4966 Sunset Blvd, Springfield, CA 79502",2020-02-02,Bob,Male,22
+980,2025-05-11,Home & Kitchen,221.31,1099,Diana Walker,diana.walker1257@mail.com,+1 (992) 845-1561,"8922 Pine Ave, Centerville, FL 87032",2022-11-04,Frank,Female,24
+693,2025-05-16,Electronics,497.74,10321,Diana Reed,diana.reed2018@protonmail.com,+1 (742) 517-9551,"5635 Hillcrest Ave, Apt 41, Georgetown, NY 21363",No especificado,Carlos,Male,35
+210,2025-01-15,Clothing,22.16,1068,Tyler Sanders,tyler.sanders8185@protonmail.com,No especificado,"2544 Elm St, Madison, NY 02148",2020-07-16,Alice,Female,37
+751,2025-04-03,Electronics,284.22,10951,Kevin Walker,kevin.walker1648@outlook.com,+1 (213) 844-9834,"4948 Elm St, Apt 75, Centerville, TX 00672",2021-09-26,Elena,Female,23
+73,2025-07-30,Clothing,No especificado,10191, Diana Hill ,diana.hill8611@outlook.com,No especificado,"9071 Maple Dr, Apt 11, Clinton, IL 78248",2023-01-27,Frank,Male,42
+528,2025-03-30,Electronics,59.81,1098,Delilah Jimenez,delilah.jimenez3104@yahoo.com,+1 (220) 698-1353,"3341 Elm St, Centerville, FL 09224",2022-12-12,Hannah,Female,49
+918,2025-03-31,Toys,169.02,1081,Gloria Ramos,gloria.ramos4679@hotmail.com,No especificado,No especificado,2022-09-20,Diana,Female,58
+142,2025-02-09,Toys,345.76,10921,Ophelia Watson,ophelia.watson4383@yahoo.com,No especificado," 4946 Sunset Blvd, Georgetown, FL 04988 ",2020-06-24,Alice,Female,50
+269,No especificado,Sports,393.67,10571,Frank Nelson,frank.nelson3298@protonmail.com,No especificado," 528 Maple Dr, Fairview, IL 78175 ",No especificado,Hannah,Female,120
+334,2025-08-25,Toys,24.3,1066,No especificado,sara.jimenez9225@hotmail.com,+1 (806) 984-6648,"2060 Oak St, Franklin, NY 41301",2023-11-24,Alice,Female,43
+934,2025-01-22,Clothing,211.17,10101, Yvonne Cruz ,yvonne.cruz4894@outlook.com,No especificado,"4896 Elm St, Apt 85, Franklin, NY 65298",2022-06-26,Frank,Male,33
+828,2025-07-20,Clothing,87.6,1026,Oscar Hughes,oscar.hughes1343@mail.com,+1 (841) 343-5424,"9208 Oak St, Arlington, NY 06602",2021-06-15,Carlos,Male,47
+695,2025-01-09,Electronics,227.43,1071,Gavin Alvarez,gavin.alvarez0569@aol.com,+1 (239) 475-6137,"8242 Maple Dr, Clinton, FL 13206",2023-07-21,Carlos,Male,22
+663,2025-06-06,Electronics,428.57,1061,Daniel Price,daniel.price1947@aol.com,No especificado," 4819 Sunset Blvd, Madison, IL 80072 ",2020-05-01,Diana,Female,53
+208,2025-07-23,Electronics,24.27,1012,Isaac Thompson,isaac.thompson6612@protonmail.com,+1 (864) 867-7106,"8907 Cedar Ln, Madison, TX 38312",No especificado,Hannah,Female,43
+94,2025-01-24,Electronics,136.46,1030,No especificado,george.martin3385@hotmail.com,+1 (752) 249-3124,No especificado,2020-01-17,Diana,Female,56
+76,2025-01-09,Electronics,153.4,10721,Molly Scott,molly.scott7615@gmail.com,+1 (386) 316-1239," 6996 Cedar Ln, Clinton, CA 40240 ",2020-10-23,Elena,Female,45
+865,2025-01-02,Toys,243.04,1028,Riley Edwards,riley.edwards9552@protonmail.com,No especificado,"6359 Washington Blvd, Franklin, TX 22638",2023-07-17,Hannah,Male,24
+1,2025-02-03,No especificado,226.92,10601,Kara Kim,kara.kim1924@yahoo.com,+1 (804) 681-7662,"8971 Pine Ave, Greenville, TX 76366",2022-03-13,Elena,Female,60
+179,2025-04-09,Sports,103.61,1056,Melissa Gomez,melissa.gomez2540@aol.com,+1 (590) 277-1162,"8021 Hillcrest Ave, Georgetown, NY 11871",No especificado,Frank,Female,62
+285,2025-08-10,Clothing,261.39,1047,Quentin Bailey,quentin.bailey2557@yahoo.com,+1 (907) 291-9266,No especificado,2019-06-20,Elena,Female,28
+361,2025-02-28,Electronics,36.03,1038, Ximena Mitchell ,ximena.mitchell6995@hotmail.com,No especificado," 1096 Pine Ave, Springfield, TX 07822 ",2020-05-27,Alice,Female,33
+342,2025-08-21,Sports,291.26,10611,Marcus Ortiz,marcus.ortiz0965@aol.com,+1 (730) 353-9730,"2819 Cedar Ln, Springfield, IL 20827",2020-10-28,George,Female,61
+611,2025-06-28,Electronics,391.28,10991,Aaron Howard,aaron.howard0539@aol.com,+1 (266) 589-2650,"4630 Lakeview Dr, Franklin, IL 42046",2021-03-13,George,Female,40
+283,2025-01-27,Electronics,No especificado,10581, Steven Hughes ,steven.hughes6134@protonmail.com,+1 (568) 913-1682,"7075 Pine Ave, Arlington, TX 06977",No especificado,Frank,Male,41
+307,2025-03-05,Sports,379.33,10151,Rebecca Sanders,rebecca.sanders7802@protonmail.com,+1 (507) 670-8098,"1871 Elm St, Apt 95, Franklin, NY 59596",2023-04-19,Hannah,Male,56
+944,2025-03-13,Clothing,231.71,10981, Isaac Sanders ,isaac.sanders4025@protonmail.com,No especificado,"8979 Elm St, Apt 40, Franklin, CA 67926",2021-11-16,Elena,Female,58
+239,2025-08-03,Electronics,No especificado,10841,Peter Flores,peter.flores1404@aol.com,No especificado,"8736 Cedar Ln, Springfield, CA 89931",2019-08-24,Alice,Female,63
+411,2025-01-21,Sports,358.59,1080,Marcus Anderson,No especificado,No especificado,"1022 Hillcrest Ave, Madison, CA 94239",2020-07-25,Frank,Female,26
+732,2025-09-03,Clothing,No especificado,1090,Zach Bailey,zach.bailey5906@aol.com,+1 (316) 411-8971," 6382 Elm St, Georgetown, NY 10197 ",2019-12-27,Hannah,Male,59
+685,2025-04-02,Sports,171.99,10922,No especificado,No especificado,+1 (918) 610-8806,"8013 Maple Dr, Fairview, FL 62186",2020-08-20,Diana,Female,44
+227,2025-06-13,Toys,475.71,1011,Connor Roberts,connor.roberts4590@outlook.com,+1 (721) 479-8113,"9063 Oak St, Apt 86, Springfield, FL 60864",No especificado,Elena,Female,54
+590,2025-05-14,Home & Kitchen,261.14,1083,Adrian Hall,adrian.hall7635@outlook.com,+1 (771) 389-1350,"4898 Maple Dr, Apt 48, Riverside, CA 18244",2022-05-25,Frank,Male,41
+389,2025-03-13,Sports,43.44,10561,Stella Reed,stella.reed2269@gmail.com,+1 (300) 375-7472,"9390 Elm St, Fairview, IL 28056",2020-04-18,Elena,Female,34
+838,2025-06-06,Home & Kitchen,301.19,1096,Kelly Gray,kelly.gray2021@gmail.com,No especificado,"9215 Elm St, Centerville, TX 65143",2022-06-27,Bob,Female,39
+765,2025-04-11,Toys,475.51,1089, Daniel Parker ,No especificado,+1 (647) 369-4452,"2891 Pine Ave, Clinton, IL 58772",2022-01-15,Carlos,Male,46
+710,2025-04-27,Electronics,460.89,1045, Ethan Nelson ,ethan.nelson4499@mail.com,+1 (941) 964-9966,No especificado,2022-10-15,Diana,Female,22
+195,2025-03-28,Clothing,217.21,1055,Faith Miller,No especificado,+1 (707) 461-7575,"6769 Oak St, Madison, CA 25915",2021-11-23,Diana,Female,23
+12,2025-07-23,Sports,238.78,1017, Zoey Jackson ,zoey.jackson9422@mail.com,+1 (536) 963-5601,"6964 Hillcrest Ave, Riverside, IL 09793",2023-12-21,George,Female,45
+744,2025-03-28,Home & Kitchen,No especificado,10612,Yvonne Murphy,yvonne.murphy0765@yahoo.com,+1 (999) 920-5563,"8335 Washington Blvd, Centerville, FL 96672",2021-10-07,Carlos,Male,31
+57,2025-03-30,Electronics,240.84,10722,Tina Harris,tina.harris2244@mail.com,No especificado,"2154 Hillcrest Ave, Apt 51, Franklin, CA 19699",2020-09-29,Elena,Female,27
+500,2025-05-23,Electronics,No especificado,1043,Yvonne Peterson,yvonne.peterson5415@hotmail.com,No especificado,"8242 Washington Blvd, Clinton, CA 07264",2022-11-14,George,Female,57
+140,2025-01-23,No especificado,455.83,1094,Tina Lewis,tina.lewis1357@aol.com,No especificado,"6410 Cedar Ln, Apt 89, Madison, NY 85145",2023-12-03,Diana,Female,36
+181,2025-07-02,Toys,475.96,1044, Connor Evans ,connor.evans2284@aol.com,+1 (999) 282-5682," 2976 Sunset Blvd, Greenville, TX 92934 ",2021-06-17,Hannah,Male,60
+101,2025-08-14,No especificado,200.59,1078,No especificado,faith.ramos7946@outlook.com,+1 (590) 211-6482,"110 Oak St, Georgetown, IL 40087",2019-07-05,Diana,Female,28
+707,2025-09-04,Toys,315.16,1051,Liam Richardson,liam.richardson4299@protonmail.com,No especificado,"8191 Sunset Blvd, Springfield, CA 73323",No especificado,George,Female,55
+936,2025-07-17,Clothing,269.03,1085,Charlie Sanders,charlie.sanders7973@hotmail.com,+1 (455) 552-3173,"8883 Lakeview Dr, Franklin, NY 10781",2020-10-14,Diana,Female,56
+156,No especificado,Electronics,No especificado,10531,No especificado,penelope.adams8270@hotmail.com,+1 (520) 660-7081,"6562 Pine Ave, Apt 43, Clinton, IL 25940",2021-12-14,Hannah,Male,32
+224,No especificado,Home & Kitchen,No especificado,10661,Adrian White,adrian.white1243@outlook.com,No especificado,"6296 Washington Blvd, Apt 33, Arlington, FL 29627",2020-03-02,Hannah,Male,53
+619,2025-06-19,Home & Kitchen,254.03,1023,William Brooks,william.brooks3641@hotmail.com,+1 (962) 782-8042,No especificado,2021-02-23,George,Female,24
+591,2025-08-31,Clothing,51.46,1093,No especificado,paul.martinez4222@outlook.com,No especificado," 4466 Cedar Ln, Fairview, FL 09920 ",2023-10-10,Elena,Female,49
+40,2025-02-07,Sports,288.03,10121,Ethan Ward,ethan.ward3906@gmail.com,+1 (224) 929-5232,"6188 Washington Blvd, Franklin, TX 40625",No especificado,Frank,Female,25
+807,2025-05-12,Sports,404.31,1054,Quentin Anderson,quentin.anderson8240@hotmail.com,+1 (603) 645-3439,"6888 Washington Blvd, Apt 26, Greenville, CA 69966",No especificado,Elena,Female,35
+862,2025-01-08,Sports,263.04,10901,Uma Harris,uma.harris9036@protonmail.com,+1 (885) 817-3597,"1360 Lakeview Dr, Springfield, FL 85629",2020-06-30,Hannah,Female,52
+275,2025-06-07,Electronics,498.92,10842,Yosef Ward,No especificado,+1 (446) 401-4030,"9282 Washington Blvd, Georgetown, CA 28562",2019-09-22,Hannah,Male,37
+20,2025-01-09,Electronics,35.79,10582, Tyler Murphy ,No especificado,+1 (738) 219-1908," 4377 Sunset Blvd, Franklin, IL 58991 ",2023-05-28,Alice,Female,51
+29,2025-02-21,Clothing,308.73,1079, Olivia Roberts ,olivia.roberts6258@hotmail.com,+1 (766) 838-8787,"9329 Main St, Clinton, FL 13169",2023-04-15,Diana,Female,63
+654,2025-09-06,Toys,446.48,10481, Leo Gomez ,leo.gomez0938@gmail.com,No especificado,"6788 Lakeview Dr, Fairview, IL 94011",2021-11-14,Frank,Male,26
+191,2025-08-26,Toys,427.62,10931,No especificado,No especificado,+1 (672) 731-5959," 7647 Oak St, Springfield, FL 66733 ",2022-07-05,Hannah,Male,53
+182,2025-05-22,Sports,9.39,10961, Isabel Wood ,No especificado,No especificado,"3129 Maple Dr, Greenville, CA 72068",2019-04-10,Bob,Male,23
+568,2025-01-07,Clothing,432.46,1000,Zoe Cox,zoe.cox2351@aol.com,+1 (795) 547-9446,"3963 Oak St, Riverside, NY 33707",2020-03-09,Hannah,Female,59
+463,2025-05-11,Home & Kitchen,No especificado,10952,Gloria Robinson,gloria.robinson3199@aol.com,+1 (606) 231-7054,"2539 Pine Ave, Springfield, NY 22937",2021-03-17,Frank,Male,33
+713,2025-05-30,Toys,490.67,10201,Marcus White,marcus.white2201@protonmail.com,No especificado,"1901 Maple Dr, Arlington, TX 60637",2019-01-15,Alice,Female,51
+229,2025-01-14,Home & Kitchen,258.08,10202,Fiona Ortiz,fiona.ortiz8038@protonmail.com,No especificado," 9453 Hillcrest Ave, Apt 24, Riverside, IL 68858 ",2022-01-13,Carlos,Male,60
+799,2025-08-15,Clothing,223.02,1088,No especificado,rebecca.wood6403@aol.com,+1 (522) 855-9014,No especificado,2020-05-20,Alice,Female,29
+158,2025-07-26,Toys,99.1,10781, Leo Price ,leo.price8489@protonmail.com,No especificado,No especificado,2020-08-09,Hannah,Female,46
+843,2025-06-03,Toys,259.36,1064, Edward Alvarez ,edward.alvarez3921@protonmail.com,No especificado," 1098 Pine Ave, Franklin, CA 13233 ",2021-12-17,Bob,Male,15
+679,2025-04-11,Sports,No especificado,1003,Quincy Anderson,quincy.anderson5196@outlook.com,+1 (954) 220-3667,"4128 Oak St, Springfield, IL 42832",2022-02-07,Bob,Male,38
+24,2025-03-27,Toys,451.93,10261, Ulysses Turner ,ulysses.turner4443@aol.com,+1 (801) 834-7411," 1897 Lakeview Dr, Greenville, CA 59241 ",2019-01-27,Elena,Female,54
+786,2025-01-12,Clothing,187.79,1075,No especificado,brianna.cooper1054@outlook.com,+1 (200) 747-4740,No especificado,2022-03-18,Diana,Female,55
+178,2025-03-25,Clothing,260.35,10441, Ximena Morgan ,ximena.morgan5725@hotmail.com,+1 (663) 324-1387,"7498 Washington Blvd, Riverside, CA 42268",2022-12-05,Hannah,Male,45
+869,2025-05-28,Toys,417.66,1005,Frank Phillips,frank.phillips0661@outlook.com,+1 (901) 901-7805," 1568 Cedar Ln, Riverside, NY 34538 ",2019-08-08,Frank,Male,57
+826,2025-06-15,Clothing,154.94,1063,Ulysses Parker,ulysses.parker8869@hotmail.com,+1 (574) 316-3911,"1901 Hillcrest Ave, Apt 94, Greenville, CA 51851",2020-10-20,Alice,Female,60
+89,2025-04-20,Clothing,302.32,10613,Diana Mitchell,No especificado,+1 (653) 558-5829,"3469 Main St, Arlington, CA 67683",2022-06-13,Hannah,Female,45
+810,2025-03-14,Toys,77.92,1001, Henry Cox ,henry.cox8559@yahoo.com,+1 (264) 512-7376,No especificado,No especificado,Bob,Female,47
+653,2025-09-11,Electronics,440.09,10322, Henry Morales ,henry.morales4878@aol.com,+1 (228) 983-8115,"243 Lakeview Dr, Greenville, FL 50914",No especificado,Hannah,Male,39
+893,2025-07-17,Toys,58.47,1097, Adrian Cooper ,adrian.cooper2558@gmail.com,+1 (549) 268-2059," 3377 Maple Dr, Fairview, IL 32832 ",2020-04-14,George,Female,54
+589,2025-04-30,Clothing,164.14,1033,Ray Price,ray.price9709@gmail.com,+1 (916) 524-4099,"5087 Cedar Ln, Riverside, IL 99478",2023-05-06,Alice,Female,49
+385,2025-08-27,Sports,171.13,10782, Violet Mitchell ,violet.mitchell1302@outlook.com,No especificado,"8410 Oak St, Franklin, FL 50855",2020-09-05,Alice,Female,51
+425,2025-07-06,Electronics,417.9,10211, Mia Phillips ,mia.phillips1563@outlook.com,+1 (605) 255-8437,"9246 Oak St, Greenville, CA 05879",2022-01-06,Frank,Male,26
+247,2025-05-22,Clothing,155.58,10583, Zoey Long ,zoey.long0739@mail.com,+1 (798) 621-4492,"3671 Washington Blvd, Apt 66, Arlington, FL 05435",2020-05-05,Diana,Female,26
+845,2025-07-25,Home & Kitchen,177.31,10242, Sara Thomas ,sara.thomas2086@aol.com,+1 (658) 707-5095,"3777 Cedar Ln, Greenville, CA 48761",2020-11-13,Alice,Female,63
+391,2025-03-15,Home & Kitchen,392.0,10791, Liam Mendoza ,liam.mendoza3035@protonmail.com,+1 (892) 868-6241,"4107 Pine Ave, Apt 2, Centerville, FL 15691",2019-10-21,Alice,Female,51
+319,2025-07-29,Toys,446.8,1086,Ian Young,ian.young4893@protonmail.com,+1 (716) 743-5134," 2661 Hillcrest Ave, Greenville, IL 74624 ",2022-12-19,Frank,Female,56
+812,2025-08-24,Clothing,395.28,10051,No especificado,peter.kim4032@outlook.com,+1 (943) 520-2939,"8776 Lakeview Dr, Apt 4, Springfield, NY 38156",2023-07-11,Frank,Female,28
+315,2025-02-20,Home & Kitchen,340.94,1009,Wendy Brown,No especificado,No especificado,"1128 Elm St, Fairview, NY 97621",2022-11-04,Frank,Male,58
+529,2025-03-16,Toys,243.61,10891,Amber Reyes,amber.reyes0789@yahoo.com,No especificado,No especificado,2019-11-28,Hannah,Male,35
+502,2025-08-04,Sports,117.74,10572,No especificado,logan.reed1011@hotmail.com,+1 (971) 925-6786,"4979 Elm St, Apt 39, Franklin, TX 82859",2019-05-16,Bob,Female,60
+427,2025-01-04,Sports,358.04,1091, Ray Ramos ,ray.ramos7115@protonmail.com,+1 (415) 327-9900,"4716 Maple Dr, Springfield, IL 32097",2021-09-13,Frank,Female,37
+908,2025-01-29,Home & Kitchen,81.46,1042,No especificado,edward.stewart6309@aol.com,+1 (704) 409-4748," 3053 Pine Ave, Georgetown, CA 99031 ",2022-07-14,Diana,Female,31
+198,2025-08-06,No especificado,23.6,10821, Kyle Ortiz ,kyle.ortiz9455@yahoo.com,+1 (930) 331-1762,"9308 Maple Dr, Apt 78, Greenville, NY 79808",2019-08-25,Hannah,Female,27
+486,2025-01-04,Electronics,59.09,10111,Ophelia Wright,ophelia.wright2641@outlook.com,+1 (728) 513-9799,"7160 Washington Blvd, Apt 23, Springfield, TX 57580",2021-09-10,Alice,Female,28
+488,2025-07-24,Toys,392.68,10573, Grace Clark ,grace.clark5652@aol.com,+1 (262) 256-2106,"4076 Washington Blvd, Springfield, CA 99941",2019-01-28,George,Female,32
+535,2025-01-25,Sports,113.44,10021, Liam White ,liam.white3375@aol.com,+1 (521) 720-1427,No especificado,2023-01-28,Bob,Male,33
+69,2025-01-15,Toys,150.19,10602, Adrian Alvarez ,adrian.alvarez0001@hotmail.com,+1 (856) 525-6164," 6509 Elm St, Fairview, CA 38513 ",2020-08-31,Alice,Female,29
+451,2025-06-02,Clothing,384.23,10751, Noah James ,noah.james3642@outlook.com,+1 (758) 226-1647,No especificado,2022-07-27,Alice,Female,23
+948,2025-06-28,Home & Kitchen,429.88,10881,Daniel Carter,daniel.carter0801@yahoo.com,No especificado,No especificado,No especificado,Hannah,Female,42
+878,2025-04-27,Sports,334.97,10001, Peter Carter ,peter.carter1254@yahoo.com,No especificado,"1571 Hillcrest Ave, Greenville, IL 90028",No especificado,George,Female,36
+791,2025-08-11,Sports,8.88,10932,Henry Hughes,henry.hughes3384@protonmail.com,+1 (719) 302-7225," 839 Pine Ave, Apt 45, Clinton, FL 47878 ",2021-09-02,Hannah,Female,47
+583,2025-01-23,Home & Kitchen,455.42,10641,John Reed,john.reed9655@protonmail.com,+1 (775) 923-4285,"1206 Cedar Ln, Centerville, FL 71310",2019-04-11,Hannah,Female,31
+335,2025-03-27,Toys,234.02,10022, Tina Gomez ,tina.gomez9422@hotmail.com,+1 (237) 970-7058," 4823 Maple Dr, Georgetown, CA 77924 ",2022-02-09,George,Female,44
+67,2025-08-06,Home & Kitchen,220.13,10783, Jasmine Campbell ,jasmine.campbell4618@mail.com,+1 (785) 436-3546,"5334 Lakeview Dr, Centerville, FL 44003",2021-11-09,Diana,Female,52
+854,2025-03-27,Sports,438.56,10421,No especificado,No especificado,+1 (341) 910-9153,"8685 Washington Blvd, Centerville, TX 67782",No especificado,Carlos,Male,43
+886,2025-02-15,Electronics,357.96,10243,No especificado,jacob.hernandez7262@mail.com,No especificado," 2863 Pine Ave, Greenville, IL 75925 ",2021-10-11,George,Female,47
+180,2025-01-27,Sports,261.92,10031,Nina Morgan,nina.morgan7085@aol.com,+1 (442) 358-1706,"8009 Lakeview Dr, Madison, CA 82816",2021-05-08,Frank,Female,33
+220,2025-03-18,Clothing,409.31,10102,Hank Allen,hank.allen7679@mail.com,+1 (438) 970-9296,"7221 Sunset Blvd, Centerville, TX 04408",2021-09-29,Hannah,Female,47
+268,2025-03-06,Electronics,356.11,10861, Sara Edwards ,sara.edwards6267@outlook.com,+1 (942) 326-1048,No especificado,2023-10-18,Bob,Female,56
+909,2025-08-19,Electronics,27.23,10962,Frank Edwards,frank.edwards6852@outlook.com,No especificado,"7070 Lakeview Dr, Arlington, NY 82510",2022-01-07,Bob,Female,26
+875,2025-03-23,Sports,199.63,10862,John Myers,john.myers9458@hotmail.com,+1 (214) 311-6764," 7881 Main St, Franklin, IL 35688 ",2019-07-13,Bob,Male,49
+78,2025-06-30,Toys,450.54,10471,Molly White,molly.white1206@aol.com,No especificado,"9439 Elm St, Georgetown, CA 68515",2021-02-07,Alice,Female,46
+617,2025-08-09,Toys,480.51,10002, Ian Campbell ,ian.campbell6543@aol.com,+1 (239) 319-6405,"5581 Hillcrest Ave, Apt 96, Greenville, TX 56184",2019-08-17,Diana,Female,52
+351,2025-02-03,Home & Kitchen,304.86,10511, Logan Williams ,logan.williams7256@yahoo.com,+1 (537) 853-8403,"6637 Sunset Blvd, Apt 45, Fairview, IL 95433",2020-05-06,Carlos,Male,46
+514,2025-04-04,Electronics,469.46,10584,Alice Allen,alice.allen8303@hotmail.com,+1 (988) 599-5878," 2182 Cedar Ln, Greenville, TX 13335 ",2020-04-26,Hannah,Male,51
+718,2025-01-12,Clothing,286.84,10784,Yvonne James,yvonne.james4974@yahoo.com,+1 (745) 393-2441,No especificado,No especificado,Elena,Female,42
+352,2025-05-29,Clothing,40.11,1065,Ulysses Edwards,ulysses.edwards3554@hotmail.com,+1 (879) 430-9042,"6078 Maple Dr, Franklin, CA 36236",2023-05-10,Alice,Female,45
+317,2025-09-08,Sports,257.66,1062,Ethan Ruiz,ethan.ruiz6117@aol.com,+1 (556) 466-3943,"6409 Pine Ave, Apt 96, Clinton, CA 58384",2022-12-13,George,Female,50
+404,2025-04-17,Home & Kitchen,255.45,1014,George Chavez,george.chavez1842@outlook.com,No especificado,"5495 Elm St, Apt 28, Madison, NY 09305",2020-01-10,Elena,Female,55
+719,2025-09-07,Clothing,322.1,1007,Olivia Bennett,olivia.bennett3107@aol.com,No especificado," 1164 Elm St, Springfield, NY 25048 ",2019-10-13,Bob,Male,35
+969,2025-03-25,Home & Kitchen,460.17,10071, Peter Gray ,peter.gray6134@protonmail.com,+1 (726) 968-8491,"2856 Sunset Blvd, Centerville, FL 85006",2019-03-23,George,Female,54
+741,2025-06-17,Toys,156.13,1013,Connor Chavez,connor.chavez7442@mail.com,+1 (247) 646-6507,"3916 Main St, Greenville, CA 66672",2020-04-07,Hannah,Female,25
+995,2025-03-17,Electronics,229.73,10681,Lauren White,lauren.white5578@outlook.com,+1 (727) 799-7939,"6097 Lakeview Dr, Fairview, NY 27969",2022-10-10,Elena,Female,48
+368,2025-08-25,Toys,162.21,1076, Fiona Williams ,fiona.williams6277@mail.com,+1 (584) 577-9259," 1805 Oak St, Apt 80, Arlington, CA 34026 ",2022-02-12,Bob,Male,44
+723,2025-08-15,Home & Kitchen,35.92,10244,Riley Rodriguez,riley.rodriguez3525@yahoo.com,+1 (576) 875-8296,"5237 Oak St, Apt 80, Greenville, FL 73300",2019-08-19,Carlos,Male,59
+496,2025-07-28,Clothing,188.73,1027,Dave Hughes,dave.hughes9205@aol.com,+1 (625) 361-4724,"4679 Main St, Fairview, CA 24959",2023-03-08,George,Female,30
+66,2025-01-09,Sports,354.27,10032,No especificado,charlie.brown0553@yahoo.com,+1 (738) 855-1674,"9192 Maple Dr, Apt 31, Greenville, TX 29909",2022-12-22,Diana,Female,35
+177,2025-06-07,Electronics,482.22,10161,Jane Patel,jane.patel4030@gmail.com,No especificado,"3440 Maple Dr, Franklin, NY 10235",No especificado,Alice,Female,53
+608,2025-01-03,Home & Kitchen,151.8,10642,No especificado,violet.lopez1532@protonmail.com,+1 (409) 386-4418,"2081 Sunset Blvd, Arlington, FL 24157",2020-04-17,George,Female,58
+104,2025-07-14,Sports,181.77,10603,Kelly Parker,kelly.parker1851@mail.com,No especificado,"6854 Lakeview Dr, Greenville, NY 81870",2019-10-21,Alice,Female,33
+487,2025-04-30,Home & Kitchen,308.22,10472, Hank Gomez ,hank.gomez5538@gmail.com,No especificado,"6164 Elm St, Arlington, IL 65102",2020-10-12,George,Female,25
+164,2025-01-12,Clothing,353.41,10311,Brianna Ramos,brianna.ramos4410@yahoo.com,+1 (905) 560-6465,"6888 Washington Blvd, Springfield, CA 57545",2020-05-05,Diana,Female,62
+301,2025-05-20,Home & Kitchen,370.25,10381, William Robinson ,No especificado,+1 (551) 578-1436,"8230 Hillcrest Ave, Georgetown, NY 04118",2020-05-13,Frank,Female,54
+883,2025-05-10,Toys,33.76,10651, Ximena Morgan ,ximena.morgan4428@protonmail.com,No especificado,No especificado,2021-10-07,Frank,Male,15
+146,2025-06-26,Home & Kitchen,252.81,10652,Victor Gutierrez,victor.gutierrez1405@mail.com,+1 (462) 571-4046,"3047 Cedar Ln, Arlington, CA 78054",2022-03-24,Alice,Female,28
+308,2025-07-19,Electronics,218.06,10532,Frank Myers,frank.myers8698@aol.com,+1 (381) 353-3514,"8233 Pine Ave, Fairview, CA 08676",2019-07-07,Hannah,Male,38
+823,2025-07-13,Electronics,411.49,10662, Charlie Garcia ,charlie.garcia4891@gmail.com,+1 (911) 495-2613,No especificado,2021-03-22,Elena,Female,31
+581,2025-03-03,No especificado,385.62,10863, Marcus Taylor ,marcus.taylor7519@aol.com,+1 (621) 255-7891,"6247 Sunset Blvd, Apt 45, Madison, CA 12825",2023-05-31,Diana,Female,60
+657,2025-04-29,Electronics,327.88,1035,John Mitchell,john.mitchell4974@outlook.com,No especificado,"6279 Elm St, Apt 35, Fairview, CA 53264",2020-11-03,Elena,Female,31
+10,2025-03-02,Electronics,176.9,10551,Ursula Price,ursula.price8048@gmail.com,No especificado,"5557 Lakeview Dr, Apt 59, Franklin, NY 75924",2019-09-24,Alice,Female,32
+312,2025-04-18,Home & Kitchen,447.08,10221, Faith Long ,faith.long4273@outlook.com,No especificado," 9704 Cedar Ln, Apt 88, Fairview, FL 90056 ",2019-05-09,Frank,Male,27
+323,2025-08-31,Clothing,29.74,10371, Olivia Ramirez ,olivia.ramirez6263@protonmail.com,+1 (799) 928-3717,"7812 Hillcrest Ave, Springfield, TX 59901",2020-08-24,Hannah,Female,44
+213,2025-04-18,Sports,433.46,1046, George King ,george.king3868@aol.com,+1 (688) 564-5004,"8593 Hillcrest Ave, Apt 14, Springfield, IL 71912",2021-12-04,Hannah,Female,27
+614,2025-03-22,Clothing,156.63,10473,Owen Gutierrez,owen.gutierrez4234@aol.com,No especificado,"6229 Sunset Blvd, Clinton, IL 01950",2023-05-14,George,Female,62
+996,No especificado,Sports,437.74,10902,Kevin White,kevin.white6863@protonmail.com,+1 (742) 990-9163,No especificado,2019-12-08,George,Female,54
+109,2025-08-15,Home & Kitchen,453.52,10351,Noah Hughes,noah.hughes6644@protonmail.com,+1 (445) 841-1782,"395 Sunset Blvd, Riverside, TX 93935",2020-02-05,Elena,Female,58
+449,2025-08-11,Home & Kitchen,382.09,1073,Kelly Stewart,kelly.stewart4884@hotmail.com,+1 (852) 332-4419,"4096 Sunset Blvd, Apt 28, Georgetown, CA 91665",2023-11-05,Elena,Female,45
+660,2025-05-06,Clothing,418.73,10281,Melissa Sanders,melissa.sanders6621@yahoo.com,No especificado,"4004 Pine Ave, Apt 77, Clinton, NY 25807",2023-03-23,Bob,Female,54
+31,2025-01-10,Toys,426.87,10112,Frank White,frank.white0331@outlook.com,+1 (689) 438-6873,"3763 Sunset Blvd, Springfield, CA 59430",2021-09-25,Alice,Female,37
+616,No especificado,Clothing,138.84,10482, Brianna Lopez ,brianna.lopez3543@outlook.com,+1 (424) 723-4840,"1804 Elm St, Riverside, FL 40362",2021-01-28,Bob,Female,36
+910,2025-04-03,Electronics,490.68,1052,Xander Ramirez,xander.ramirez2859@hotmail.com,+1 (608) 466-2196,"6693 Hillcrest Ave, Clinton, TX 08226",2023-01-08,Hannah,Male,44
+127,2025-01-11,Toys,117.98,10282, Liam Garcia ,liam.garcia2070@mail.com,+1 (265) 441-3386,"4242 Pine Ave, Apt 26, Centerville, NY 74762",2019-03-23,George,Female,36
+305,2025-08-13,No especificado,391.75,10851,John Cruz,john.cruz4192@aol.com,+1 (754) 271-4289," 5653 Lakeview Dr, Riverside, CA 75406 ",No especificado,Frank,Male,40
+17,2025-01-24,No especificado,472.13,10953,Holly Hall,holly.hall6737@hotmail.com,+1 (556) 275-2181,"3804 Cedar Ln, Apt 89, Fairview, FL 08754",2022-01-16,Elena,Female,43
+84,2025-08-04,Sports,5.07,10474,Bryan Jones,No especificado,No especificado," 2149 Oak St, Apt 74, Arlington, TX 27967 ",2021-07-12,Bob,Female,28
+599,2025-07-07,Home & Kitchen,152.54,10923, Ethan Garcia ,No especificado,+1 (647) 713-5748,"7169 Hillcrest Ave, Springfield, FL 47804",2023-10-19,Alice,Female,46
+670,2025-06-04,Electronics,334.86,10533,Walter Ross,walter.ross9837@mail.com,+1 (971) 558-4139,No especificado,2020-12-02,Hannah,Male,34
+297,2025-08-16,Toys,No especificado,10562, Delilah Hernandez ,delilah.hernandez7998@protonmail.com,No especificado,"8747 Lakeview Dr, Apt 61, Centerville, FL 16093",2023-01-21,George,Female,48
+176,2025-09-08,Clothing,124.74,10785,Lauren Evans,No especificado,+1 (451) 314-7952,"4390 Sunset Blvd, Riverside, NY 95953",2020-07-05,George,Female,53
+991,2025-03-03,Toys,120.03,10801,Samantha Kelly,samantha.kelly3185@gmail.com,+1 (786) 688-8672,"4372 Washington Blvd, Madison, TX 62263",2022-06-22,Diana,Female,50
+79,2025-07-21,Sports,395.55,10372,Jocelyn Baker,No especificado,+1 (675) 550-4634,"7095 Maple Dr, Clinton, IL 12795",2019-04-26,Bob,Female,62
+27,2025-03-07,Home & Kitchen,284.72,10621,Violet Edwards,violet.edwards4484@outlook.com,+1 (646) 650-2238,"101 Elm St, Arlington, IL 44421",2019-11-08,Diana,Female,46
+820,2025-03-17,Home & Kitchen,87.82,10401,Liam Alvarez,liam.alvarez1912@mail.com,+1 (497) 961-6771,"3586 Sunset Blvd, Apt 14, Greenville, IL 15756",2022-01-03,Carlos,Male,46
+118,2025-07-28,Home & Kitchen,391.29,10802,Riley Lewis,riley.lewis5567@outlook.com,No especificado,"242 Lakeview Dr, Riverside, IL 84072",2019-10-17,George,Female,35
+793,2025-01-09,Sports,398.29,10052,Ethan Mitchell,ethan.mitchell6321@protonmail.com,No especificado,No especificado,2021-04-25,Carlos,Male,51
+6,2025-06-01,Toys,173.49,10643,Uma White,uma.white7642@outlook.com,No especificado,"8610 Main St, Georgetown, FL 58933",2023-10-23,George,Female,42
+825,2025-01-14,Toys,302.53,10141,Quentin Alvarez,quentin.alvarez6423@yahoo.com,No especificado,"3065 Oak St, Arlington, FL 69799",2021-06-08,Hannah,Male,38
+508,2025-05-04,Clothing,342.9,10614,Beth Clark,beth.clark5055@yahoo.com,No especificado,"2643 Maple Dr, Apt 5, Riverside, FL 70712",2020-09-13,Carlos,Male,33
+403,2025-06-18,Electronics,424.97,10373, Natalie Edwards ,natalie.edwards6533@gmail.com,No especificado," 6398 Maple Dr, Apt 11, Franklin, CA 84792 ",2019-08-18,George,Female,22
+383,2025-04-16,Sports,122.53,10231, Kevin Edwards ,kevin.edwards0847@protonmail.com,+1 (996) 395-3101,"4416 Cedar Ln, Apt 1, Madison, IL 98178",2021-06-25,Bob,Female,27
+399,2025-08-20,Toys,492.09,10622,Bob Nguyen,bob.nguyen7234@outlook.com,+1 (882) 405-7499,"8436 Main St, Franklin, TX 79589",2019-01-18,Alice,Female,44
+671,2025-03-26,Electronics,75.36,10271,No especificado,faith.morales8804@mail.com,No especificado,No especificado,No especificado,Frank,Male,54
+19,2025-04-25,Toys,145.72,10122,George Peterson,george.peterson6342@outlook.com,+1 (876) 306-2155,"2498 Sunset Blvd, Centerville, TX 76015",2023-02-28,Elena,Female,45
+746,2025-08-29,Home & Kitchen,474.11,10312,Isabel Bennett,isabel.bennett2893@outlook.com,+1 (530) 601-3417,"8393 Maple Dr, Georgetown, NY 81268",2022-09-16,George,Female,41
+542,2025-05-23,Electronics,66.79,1087, Felix Flores ,felix.flores8708@mail.com,+1 (481) 471-6740,No especificado,2019-03-23,Diana,Female,63
+61,2025-02-24,Toys,230.84,10585,Kyle Sanders,kyle.sanders6813@protonmail.com,No especificado,"1927 Cedar Ln, Fairview, FL 95120",2019-10-18,George,Female,39
+544,2025-05-10,Home & Kitchen,416.53,10852,Grace Morris,grace.morris2749@protonmail.com,+1 (550) 959-4884,"3163 Pine Ave, Arlington, TX 02707",2019-10-21,Frank,Female,35
+658,2025-05-27,Sports,490.69,10374,John Flores,john.flores6784@hotmail.com,+1 (850) 694-6838,"3967 Main St, Greenville, IL 49269",2021-03-02,Bob,Male,51
+850,2025-04-28,Electronics,175.89,10541,Sara Brown,sara.brown6133@hotmail.com,+1 (564) 531-7346," 2900 Pine Ave, Franklin, FL 66855 ",2019-06-25,Bob,Male,55
+300,2025-02-11,Clothing,52.78,10822,Bob Reed,bob.reed3104@gmail.com,+1 (770) 511-8273,"8742 Hillcrest Ave, Apt 59, Madison, FL 59803",2023-08-13,Frank,Female,51
+108,2025-04-05,Sports,301.49,10682, Tom Cox ,tom.cox8418@hotmail.com,No especificado,"8424 Washington Blvd, Centerville, IL 08912",2022-11-10,George,Female,45
+330,2025-01-29,Toys,151.17,10072,Rebecca Brown,rebecca.brown9324@yahoo.com,+1 (988) 391-3159," 4861 Washington Blvd, Georgetown, CA 01018 ",2019-02-20,Elena,Female,24
+442,2025-07-18,Clothing,391.41,10586,Hailey Watson,hailey.watson3267@mail.com,+1 (474) 694-1540,"4529 Main St, Centerville, IL 77689",2023-04-26,Alice,Female,31
+629,2025-06-20,Sports,383.44,10671,Olivia Cox,olivia.cox6567@hotmail.com,No especificado,"8329 Oak St, Apt 25, Georgetown, TX 81388",2020-05-22,Carlos,Male,33
+254,2025-01-20,Home & Kitchen,260.77,10341,Ivy Green,ivy.green4163@protonmail.com,No especificado," 7522 Washington Blvd, Apt 51, Greenville, FL 37616 ",2020-12-01,Alice,Female,37
+56,2025-09-14,Clothing,352.62,10192,Wendy Garcia,wendy.garcia5272@gmail.com,+1 (566) 687-7038,"5310 Washington Blvd, Madison, NY 13731",No especificado,Elena,Female,23
+276,2025-05-21,Electronics,388.07,10864,Caleb Martinez,caleb.martinez3619@yahoo.com,No especificado,"868 Main St, Apt 39, Centerville, FL 03110",2023-11-28,Elena,Female,62
+669,2025-08-27,Toys,180.61,10823,Wendy Campbell,wendy.campbell4999@mail.com,+1 (553) 506-6285,"7902 Oak St, Riverside, IL 57303",2019-04-11,Hannah,Female,48
+866,2025-09-06,Clothing,44.69,10644,Bob Scott,bob.scott2912@hotmail.com,+1 (512) 321-6263," 4744 Elm St, Arlington, CA 13125 ",2019-08-19,Carlos,Male,52
+903,2025-01-14,Clothing,143.62,10731, Rebecca Robinson ,rebecca.robinson6384@protonmail.com,+1 (510) 646-6634,"4623 Cedar Ln, Springfield, TX 95907",No especificado,Bob,Male,34
+359,2025-05-04,Home & Kitchen,348.82,10131,Liam Jimenez,liam.jimenez0364@mail.com,+1 (967) 328-9336,"1580 Hillcrest Ave, Springfield, NY 65862",2021-02-16,Elena,Female,37
+200,2025-01-20,Electronics,423.57,10723,Gloria Turner,gloria.turner6343@aol.com,No especificado,"2107 Main St, Fairview, FL 69527",2021-12-22,Elena,Female,25
+766,2025-03-31,Clothing,5.73,10203,Henry Cooper,henry.cooper9448@protonmail.com,+1 (445) 431-5753,"7738 Pine Ave, Apt 44, Springfield, IL 07180",2023-10-28,Bob,Female,24
+623,2025-06-02,Clothing,387.71,10786,Rebecca Edwards,rebecca.edwards8287@aol.com,+1 (804) 516-7409,"3805 Lakeview Dr, Centerville, NY 92649",2020-04-08,Frank,Female,120
+134,2025-06-10,Electronics,No especificado,10262,No especificado,No especificado,+1 (226) 434-4260,"9343 Elm St, Apt 79, Fairview, FL 74939",2021-04-03,Frank,Male,53
+121,2025-08-12,Toys,496.44,10903, Ximena Davis ,ximena.davis0149@protonmail.com,+1 (740) 563-3195,"8587 Elm St, Apt 35, Riverside, TX 28426",2019-12-15,Elena,Female,26
+639,2025-06-17,Toys,28.19,10631, Zoe Peterson ,No especificado,+1 (464) 679-1051,"2388 Oak St, Centerville, IL 81168",2023-09-23,George,Female,58
+546,2025-01-31,Home & Kitchen,219.74,10521,Mia Gray,mia.gray8114@outlook.com,+1 (498) 712-1757,"5035 Pine Ave, Georgetown, IL 28179",2021-04-14,Elena,Female,26
+45,2025-02-01,Toys,213.8,10182,No especificado,walter.stewart6755@protonmail.com,+1 (427) 643-9282,"9376 Hillcrest Ave, Greenville, IL 92674",2020-05-22,Hannah,Female,23
+43,2025-01-07,Home & Kitchen,305.84,10954, Queen Nelson ,queen.nelson8958@outlook.com,No especificado,No especificado,2022-02-12,Diana,Female,30
+627,2025-02-07,Sports,328.32,10871,Quinn Ruiz,quinn.ruiz6578@aol.com,+1 (760) 709-1740,"5069 Pine Ave, Greenville, IL 41868",2020-08-18,Bob,Female,29
+154,2025-08-16,Home & Kitchen,5.67,10073,Erin Peterson,erin.peterson6468@protonmail.com,No especificado," 7540 Washington Blvd, Apt 74, Greenville, IL 51096 ",2022-01-02,George,Female,41
+914,2025-09-02,Clothing,357.75,10313, Peter Young ,peter.young3906@yahoo.com,+1 (239) 543-9977,No especificado,2021-09-14,Frank,Female,61
+32,2025-05-14,Electronics,18.63,1039, Wendy Nguyen ,wendy.nguyen4936@gmail.com,No especificado," 7871 Oak St, Georgetown, FL 02615 ",2022-03-21,Hannah,Female,36
+417,2025-06-06,Electronics,147.27,10442,Ximena Johnson,ximena.johnson7793@aol.com,+1 (482) 504-8588,No especificado,2023-01-31,Alice,Female,37
+742,2025-03-10,Toys,455.27,10461,Hank Turner,hank.turner2680@yahoo.com,+1 (839) 861-7648," 2195 Sunset Blvd, Franklin, NY 25203 ",2020-01-10,Alice,Female,31
+400,2025-05-23,Sports,237.64,10587,Zoe Jones,zoe.jones0759@mail.com,No especificado,No especificado,2022-04-11,Alice,Female,30
+798,2025-08-17,Sports,203.88,1059, Adrian Sanders ,adrian.sanders5800@gmail.com,+1 (562) 569-9544,"3690 Hillcrest Ave, Madison, FL 40835",2023-05-30,Carlos,Male,22
+984,2025-03-13,Toys,340.38,10591,Nathan Taylor,nathan.taylor3789@yahoo.com,+1 (940) 685-3343,"4858 Washington Blvd, Clinton, CA 47422",2020-04-24,Elena,Female,36
+915,2025-09-14,Home & Kitchen,158.14,10522,Stella Ramirez,stella.ramirez2094@mail.com,+1 (577) 756-1542,"2235 Sunset Blvd, Centerville, NY 70352",2021-12-17,Carlos,Male,23
+483,2025-01-26,Electronics,141.5,10911, Kara Stewart ,kara.stewart5264@hotmail.com,+1 (521) 923-3855," 8742 Cedar Ln, Arlington, FL 21033 ",2022-10-04,George,Female,47
+34,2025-01-27,Sports,245.37,10331, Quincy Martinez ,No especificado,No especificado,"6282 Main St, Riverside, TX 02640",2020-07-22,Elena,Female,58
+306,2025-04-08,Clothing,324.68,10411,Lauren Adams,lauren.adams4611@yahoo.com,No especificado,"152 Sunset Blvd, Apt 88, Riverside, CA 56898",2023-12-13,Alice,Female,25
+531,2025-06-25,Sports,190.79,10843,Walter James,walter.james0470@gmail.com,+1 (501) 844-9078,"791 Washington Blvd, Apt 40, Madison, FL 93752",2022-01-29,Elena,Female,40
+712,2025-07-29,Home & Kitchen,427.71,10592, Adrian Young ,adrian.young8761@protonmail.com,+1 (254) 587-2959," 6385 Elm St, Arlington, FL 20236 ",2019-12-28,George,Female,51
+266,2025-03-04,Toys,256.17,10382,Zach Lewis,zach.lewis2086@yahoo.com,No especificado,"1990 Oak St, Springfield, CA 61008",2019-11-04,Alice,Female,56
+625,2025-01-19,No especificado,378.35,10811, Dave Campbell ,dave.campbell3996@hotmail.com,+1 (325) 482-3674," 4317 Pine Ave, Georgetown, TX 16012 ",2019-07-23,Hannah,Male,53
+638,2025-06-10,Home & Kitchen,372.24,10831, Victor Collins ,No especificado,+1 (520) 828-7552," 2888 Pine Ave, Apt 71, Madison, TX 10012 ",2023-10-22,Diana,Female,49
+594,2025-07-29,Sports,425.92,10451,Catherine Adams,catherine.adams6308@gmail.com,No especificado," 8196 Main St, Apt 77, Georgetown, FL 27812 ",2021-09-14,Bob,Female,60
+847,2025-03-12,Home & Kitchen,10.65,10483,Violet Moore,violet.moore6898@hotmail.com,+1 (232) 763-4617,"8972 Pine Ave, Fairview, IL 09353",2023-09-09,Elena,Female,58
+607,2025-04-29,Clothing,102.48,10933,Grace Castillo,grace.castillo0670@yahoo.com,+1 (773) 900-3058," 5199 Sunset Blvd, Georgetown, TX 92239 ",2020-09-28,Carlos,Male,32
+97,2025-05-14,Electronics,60.73,10552, Ethan James ,ethan.james6704@aol.com,No especificado,"7541 Main St, Apt 94, Fairview, CA 46847",2019-05-18,Alice,Female,63
+994,2025-03-07,Clothing,199.27,10475,Kyle Gomez,No especificado,No especificado,"4628 Cedar Ln, Georgetown, IL 03576",2020-09-21,Bob,Male,58
+169,2025-01-25,Sports,485.91,10683,Violet Wilson,violet.wilson7630@hotmail.com,No especificado,"1212 Pine Ave, Centerville, NY 75895",No especificado,Frank,Female,48
+132,2025-03-14,Clothing,12.09,10342, Queen Miller ,queen.miller9947@yahoo.com,+1 (487) 263-3895,"3752 Sunset Blvd, Apt 82, Riverside, TX 01664",2020-01-24,Hannah,Male,15
+618,2025-01-05,Electronics,335.56,10162,Fiona Hill,fiona.hill5990@gmail.com,+1 (801) 767-3642," 3456 Sunset Blvd, Apt 84, Springfield, TX 52221 ",2022-02-24,Alice,Female,22
+360,2025-04-11,Sports,312.23,10912,Catherine Roberts,catherine.roberts3387@outlook.com,No especificado,"8882 Pine Ave, Fairview, IL 73539",2023-07-15,George,Female,35
+947,No especificado,Electronics,240.4,10212,Patrick Green,No especificado,+1 (752) 325-7438,"1133 Maple Dr, Madison, IL 97043",2020-10-02,Carlos,Male,56
+484,2025-02-25,Electronics,316.63,10332,Quinn Harris,quinn.harris4817@hotmail.com,No especificado,"3144 Hillcrest Ave, Clinton, NY 66567",2021-12-13,Alice,Female,55
+211,2025-08-25,Clothing,214.16,10183, Stella Perez ,stella.perez9432@outlook.com,No especificado,"6029 Oak St, Arlington, NY 28452",2021-04-15,Alice,Male,54
+363,2025-03-22,Clothing,455.18,10761,Vanessa Martin,vanessa.martin9494@yahoo.com,+1 (886) 644-2849,"3660 Oak St, Fairview, TX 92042",2020-01-02,Bob,Male,36
+136,2025-08-14,Electronics,330.98,10803,Nathan Foster,nathan.foster5318@hotmail.com,No especificado,"4261 Elm St, Greenville, CA 24584",2022-09-04,Hannah,Female,51
+194,2025-02-28,Sports,246.38,1029,Natalie Young,natalie.young8282@protonmail.com,+1 (840) 951-3668," 6674 Cedar Ln, Apt 52, Riverside, IL 62527 ",No especificado,Frank,Male,40
+880,2025-04-07,Home & Kitchen,153.46,10523,Edward Nelson,edward.nelson7584@protonmail.com,No especificado,No especificado,2023-04-19,Frank,Male,51
+173,2025-09-02,Home & Kitchen,347.8,10542,Jacob Cook,jacob.cook6188@yahoo.com,+1 (490) 279-4672,"7439 Cedar Ln, Apt 50, Arlington, NY 69934",2021-09-19,Alice,Female,63
+387,2025-03-30,Home & Kitchen,332.2,10204,Hank Hill,hank.hill1258@aol.com,+1 (803) 605-3470,"8520 Cedar Ln, Fairview, FL 13258",2022-07-23,Hannah,Male,61
+358,2025-08-27,Toys,382.14,10724,Wendy Reed,wendy.reed2195@hotmail.com,+1 (292) 338-5662,"809 Sunset Blvd, Fairview, FL 48535",2020-09-08,Hannah,Female,29
+673,2025-06-20,Clothing,124.0,10663, Xander Jackson ,xander.jackson2921@protonmail.com,+1 (856) 723-8271,"860 Hillcrest Ave, Arlington, NY 94778",2020-11-22,George,Female,62
+150,2025-04-26,Sports,406.51,10752, Xander Stewart ,xander.stewart5430@protonmail.com,+1 (828) 222-8068,"8433 Sunset Blvd, Riverside, TX 86181",2019-01-19,Alice,Female,63
+416,2025-02-22,Sports,155.45,10041,Xena James,xena.james8836@outlook.com,No especificado,"6108 Lakeview Dr, Apt 15, Clinton, FL 37010",2022-03-15,Carlos,Male,47
+762,2025-06-14,Clothing,232.88,10792,Riley Howard,riley.howard8954@protonmail.com,No especificado,"6437 Washington Blvd, Fairview, TX 43541",2020-08-15,Carlos,Female,25
+603,2025-01-14,Home & Kitchen,219.24,10222,Bob Cruz,bob.cruz9720@aol.com,No especificado,"3522 Oak St, Madison, CA 46611",2020-02-16,Carlos,Male,53
+68,2025-04-14,Sports,302.95,10132, Victor Hill ,victor.hill9834@yahoo.com,No especificado,"570 Lakeview Dr, Clinton, FL 37592",2020-09-24,Bob,Male,36
+55,2025-08-04,Clothing,No especificado,10272,Liam Young,liam.young0769@yahoo.com,+1 (327) 352-5278," 8075 Washington Blvd, Riverside, NY 63999 ",2022-10-03,Bob,Female,25
+225,2025-06-05,Home & Kitchen,489.37,10113,Peter Wright,peter.wright1970@aol.com,+1 (685) 833-2243," 3228 Oak St, Georgetown, IL 53000 ",2022-06-08,Bob,Male,28
+877,2025-03-20,Sports,370.61,10753, Gavin Garcia ,gavin.garcia0309@hotmail.com,No especificado," 4261 Hillcrest Ave, Georgetown, TX 37352 ",2020-04-06,Alice,Female,25
+572,2025-02-04,Home & Kitchen,179.76,10301,Isaac Reyes,isaac.reyes9397@aol.com,+1 (454) 656-9068,"7733 Oak St, Springfield, IL 07834",2021-03-10,Bob,Female,43
+272,2025-03-13,Toys,16.68,10383, Steven Hernandez ,No especificado,+1 (594) 812-4110,"4381 Oak St, Greenville, CA 12936",2019-12-24,Elena,Female,39
+378,2025-05-27,Clothing,10.79,10645,Ursula Stewart,ursula.stewart2235@aol.com,No especificado," 7446 Maple Dr, Franklin, NY 69133 ",No especificado,Elena,Female,54
+694,2025-08-02,Sports,374.98,10913,Olivia Sanders,olivia.sanders2072@mail.com,+1 (902) 312-1602,"9151 Maple Dr, Apt 44, Georgetown, IL 26620",2021-02-12,Hannah,Female,30
+325,2025-06-12,Home & Kitchen,9.91,10588,Paul Martin,paul.martin7659@outlook.com,+1 (656) 316-1161,"6547 Pine Ave, Apt 69, Greenville, CA 45167",2021-10-16,Frank,Male,24
+50,2025-05-26,Home & Kitchen,40.5,10391,Erin Sanchez,erin.sanchez7744@outlook.com,+1 (327) 623-2524,No especificado,2021-03-02,Hannah,Male,56
+183,2025-07-10,Sports,161.55,10123,Bryan Gutierrez,bryan.gutierrez3982@protonmail.com,+1 (623) 530-5301,"1596 Maple Dr, Apt 82, Fairview, FL 33752",2019-09-05,George,Female,24
+504,2025-02-10,Sports,332.9,1070, Caleb Stewart ,caleb.stewart8640@protonmail.com,+1 (507) 787-5680,"4023 Cedar Ln, Franklin, IL 48202",2022-09-27,Frank,Male,45
+831,2025-01-14,Home & Kitchen,148.0,10171,Riley Phillips,riley.phillips7572@mail.com,+1 (418) 575-5743,"2340 Elm St, Apt 72, Franklin, FL 01302",2022-10-24,Alice,Female,34
+580,2025-08-19,Clothing,201.93,10011,Frank Alvarez,No especificado,+1 (458) 916-5580,"8588 Lakeview Dr, Apt 86, Fairview, TX 52742",2021-04-29,Elena,Female,40
+365,2025-05-05,Clothing,9.47,10955,Quinn Brown,quinn.brown8882@aol.com,+1 (300) 963-4571,No especificado,2022-04-29,Bob,Female,55
+384,2025-01-21,Electronics,14.57,10664,Isaac Jones,isaac.jones7569@gmail.com,+1 (646) 623-9763,"2865 Cedar Ln, Greenville, FL 89451",2020-01-07,George,Female,53
+255,2025-07-01,Home & Kitchen,No especificado,10213, Oscar Reed ,oscar.reed4466@protonmail.com,No especificado," 4973 Lakeview Dr, Apt 40, Fairview, NY 23030 ",2019-10-13,Hannah,Male,24
+47,2025-06-09,Clothing,495.71,10163, Lauren Ramos ,lauren.ramos8671@yahoo.com,+1 (903) 690-4849,"3050 Pine Ave, Apt 9, Arlington, FL 62032",2020-10-21,Frank,Female,49
+447,2025-08-02,Electronics,487.23,10443,Emily Taylor,emily.taylor6125@yahoo.com,No especificado," 9111 Cedar Ln, Greenville, TX 94380 ",2020-08-10,Carlos,Male,25
+651,2025-02-23,Clothing,40.15,10672, Grace Robinson ,grace.robinson3912@yahoo.com,+1 (571) 933-2715,No especificado,2023-04-02,Elena,Female,56
+85,2025-01-29,Sports,62.49,10091,No especificado,quinn.nelson5966@yahoo.com,+1 (508) 362-8727,"6876 Sunset Blvd, Apt 37, Greenville, CA 55871",2023-06-24,Alice,Female,30
+559,2025-02-15,Sports,13.69,10971,Amber Richardson,amber.richardson2220@yahoo.com,No especificado,"5825 Oak St, Apt 40, Clinton, IL 09398",2023-01-30,George,Female,34
+907,2025-08-08,Home & Kitchen,366.03,10114,No especificado,No especificado,No especificado,No especificado,2022-08-05,Frank,Female,27
+293,2025-05-28,Sports,336.25,10384, Tyler Brooks ,tyler.brooks0488@protonmail.com,+1 (564) 336-5388,"9267 Oak St, Apt 80, Madison, TX 23489",2023-03-01,Carlos,Male,59
+721,2025-07-03,Toys,255.93,10245,No especificado,delilah.morales3324@mail.com,+1 (751) 224-1759,No especificado,2023-09-17,George,Female,32
+833,2025-04-24,Sports,388.8,10283,William Howard,william.howard0510@protonmail.com,No especificado,"8454 Washington Blvd, Fairview, TX 11238",2022-07-18,Elena,Female,46
+636,2025-04-27,Clothing,238.88,10684, Isabel Perez ,isabel.perez2679@mail.com,No especificado,"4382 Sunset Blvd, Apt 91, Riverside, CA 58267",2023-12-10,Diana,Female,29
+87,2025-09-08,Electronics,No especificado,10904,Ursula Reyes,ursula.reyes9315@outlook.com,+1 (299) 466-3625," 4642 Cedar Ln, Franklin, TX 51175 ",2022-01-23,Frank,Female,22
+587,2025-09-14,Clothing,182.5,10604,Jack Morales,jack.morales9287@outlook.com,No especificado,"3806 Oak St, Franklin, CA 35479",2020-01-12,Elena,Female,24
+523,2025-02-20,Toys,56.59,10623, George Wright ,george.wright5599@hotmail.com,+1 (227) 517-8928," 2210 Cedar Ln, Riverside, NY 30434 ",No especificado,Bob,Female,62
+569,2025-02-09,Home & Kitchen,31.89,10924,Quinn Hernandez,quinn.hernandez5964@gmail.com,+1 (880) 208-5493,"4711 Sunset Blvd, Greenville, NY 10562",No especificado,Elena,Female,40
+328,2025-05-07,Toys,352.8,10284,Zach Mitchell,zach.mitchell3442@gmail.com,+1 (385) 613-8984," 8864 Lakeview Dr, Apt 56, Greenville, FL 64196 ",2020-11-24,George,Female,63
+971,No especificado,Clothing,395.52,10574,Jane Young,jane.young7058@protonmail.com,+1 (262) 835-7602,"2938 Pine Ave, Georgetown, NY 47604",2021-02-26,Elena,Female,38
+973,2025-08-01,Sports,43.84,10431, Brianna Peterson ,brianna.peterson3826@aol.com,+1 (260) 633-5355," 7959 Elm St, Apt 48, Madison, CA 41538 ",2021-04-12,Bob,Female,23
+870,2025-04-20,Clothing,302.77,10824,Noah Foster,noah.foster6189@outlook.com,+1 (245) 418-2765,"1701 Pine Ave, Clinton, CA 89334",2023-04-29,Carlos,Male,45
+37,2025-04-18,Home & Kitchen,No especificado,1074,Connor Foster,No especificado,+1 (367) 466-1309,No especificado,2021-04-16,Carlos,Male,30
+829,2025-03-25,Home & Kitchen,341.41,10804,Gavin Anderson,gavin.anderson0242@gmail.com,No especificado,"9148 Hillcrest Ave, Apt 70, Riverside, TX 24415",2022-08-22,Diana,Female,46
+510,2025-05-23,Sports,274.53,10042,Jasmine Thomas,jasmine.thomas7938@gmail.com,+1 (765) 593-4064,"2340 Oak St, Springfield, TX 40844",2020-01-10,Hannah,Male,44
+77,2025-05-17,Home & Kitchen,334.17,10963, Fiona Brooks ,fiona.brooks9672@aol.com,No especificado," 3769 Elm St, Fairview, TX 08299 ",2020-11-02,Hannah,Male,47
+681,No especificado,Sports,60.2,10762,Isaac Bailey,isaac.bailey3428@gmail.com,No especificado,"5736 Sunset Blvd, Georgetown, FL 86913",2019-03-29,Diana,Female,52
+975,2025-06-28,Sports,272.65,10152,Xander Bailey,xander.bailey9338@yahoo.com,+1 (898) 316-1982,"1177 Pine Ave, Riverside, CA 57489",2022-03-27,Carlos,Male,61
+313,2025-03-08,Home & Kitchen,353.32,10665,Queen Collins,queen.collins2709@protonmail.com,+1 (371) 555-6206,"5634 Main St, Arlington, IL 20888",2022-04-12,George,Female,56
+690,2025-03-08,Clothing,335.94,10882, Jacob Stewart ,jacob.stewart7204@outlook.com,+1 (791) 258-2334,"5267 Oak St, Apt 81, Greenville, FL 14828",2023-02-17,Alice,Female,40
+736,2025-03-14,Sports,166.02,10741, Quentin Hill ,quentin.hill9810@mail.com,No especificado,"1023 Oak St, Georgetown, IL 54412",2020-06-26,Bob,Female,51
+39,2025-04-21,Sports,267.18,10103,Ximena Parker,No especificado,No especificado,"2373 Oak St, Springfield, TX 36273",2020-09-19,George,Female,39
+966,2025-01-18,Clothing,118.2,10043,Ray Stewart,ray.stewart4966@gmail.com,+1 (947) 669-2205,"9091 Oak St, Clinton, CA 08216",2023-07-17,Diana,Female,54
+434,2025-02-09,Home & Kitchen,375.58,10476, Diana Johnson ,diana.johnson5152@yahoo.com,+1 (382) 296-9298,"2546 Cedar Ln, Fairview, CA 55976",2021-02-20,George,Female,51
+803,2025-01-07,Sports,451.71,10972,Jack Hill,jack.hill9200@mail.com,+1 (288) 972-5452,"5823 Cedar Ln, Apt 27, Clinton, TX 94707",2022-08-22,Alice,Female,35
+237,2025-03-05,Home & Kitchen,449.79,10956,Owen White,owen.white1504@aol.com,+1 (892) 612-9854,"3770 Hillcrest Ave, Greenville, CA 24333",No especificado,Alice,Female,52
+474,2025-04-12,Toys,244.62,10701,Victor Roberts,victor.roberts3676@hotmail.com,+1 (696) 993-1872," 5137 Pine Ave, Arlington, TX 48776 ",2023-01-15,Carlos,Male,23
+260,2025-08-11,Clothing,64.68,10992,Bob Ross,bob.ross9025@yahoo.com,+1 (471) 829-9248,"2290 Maple Dr, Apt 53, Greenville, IL 37559",2019-05-08,Bob,Female,32
+518,2025-07-21,Electronics,298.81,10061,Robert Green,robert.green0728@mail.com,+1 (810) 672-6961,"5460 Lakeview Dr, Madison, FL 26712",No especificado,George,Female,43
+787,2025-04-13,Sports,197.14,10605,Zoe Thompson,zoe.thompson9598@aol.com,No especificado," 1956 Main St, Centerville, TX 93966 ",2020-05-26,Hannah,Female,35
+917,2025-02-24,Home & Kitchen,197.79,10023,Victor Rodriguez,No especificado,+1 (799) 579-2107,"1998 Elm St, Springfield, CA 49648",2021-09-11,Bob,Female,22
+666,2025-02-08,Toys,49.2,10422,Xena Walker,xena.walker9219@aol.com,+1 (255) 633-5540," 8959 Hillcrest Ave, Apt 73, Greenville, NY 89495 ",2019-06-14,Elena,Female,47
+44,2025-08-15,Toys,340.52,10653, Brianna Lewis ,brianna.lewis1506@mail.com,+1 (815) 600-2745,"4734 Lakeview Dr, Fairview, NY 87060",2019-11-04,Alice,Female,47
+900,2025-03-01,Electronics,282.42,10646,Marcus Campbell,marcus.campbell5019@mail.com,+1 (602) 713-7294,"5765 Lakeview Dr, Apt 21, Madison, NY 11792",2021-04-01,Carlos,Female,58
+661,2025-05-10,Clothing,No especificado,10333,Tyler Ortiz,tyler.ortiz8118@protonmail.com,No especificado," 9324 Cedar Ln, Clinton, NY 81557 ",2020-01-17,George,Male,22
+520,2025-04-08,Clothing,480.76,10452, Xander Cruz ,xander.cruz6098@protonmail.com,No especificado,"5561 Lakeview Dr, Apt 3, Franklin, TX 25137",2020-12-05,Hannah,Male,40
+235,2025-04-09,Clothing,355.01,10172, Mia Diaz ,mia.diaz7392@protonmail.com,No especificado,"6433 Pine Ave, Apt 61, Greenville, CA 75909",2019-10-28,Elena,Female,46
+755,2025-01-22,Toys,140.98,10012,Uma Price,No especificado,No especificado,"8178 Washington Blvd, Georgetown, CA 57076",2020-06-23,Hannah,Female,32
+856,2025-03-15,Sports,195.26,10763, George Torres ,george.torres0298@hotmail.com,+1 (967) 914-6297,"2716 Elm St, Greenville, CA 84207",2023-03-18,Frank,Male,27
+804,2025-02-08,Sports,17.47,10654,No especificado,emily.hill4879@yahoo.com,+1 (407) 407-5684,No especificado,2020-09-21,Diana,Female,47
+273,2025-04-02,Clothing,141.7,10606, Nathan Sanchez ,nathan.sanchez3572@aol.com,No especificado,"4569 Lakeview Dr, Fairview, NY 67044",2021-06-17,Elena,Female,23
+686,2025-02-28,Home & Kitchen,133.47,10263,Vanessa Foster,vanessa.foster1701@aol.com,+1 (938) 963-1047,"1702 Lakeview Dr, Springfield, FL 48146",2023-04-06,Frank,Female,58
+921,2025-09-08,Toys,358.41,10184,Quincy Johnson,quincy.johnson6903@yahoo.com,+1 (992) 548-2827," 7129 Hillcrest Ave, Springfield, TX 53717 ",No especificado,Hannah,Male,30
+778,2025-07-02,Electronics,288.9,10685, Ethan Perez ,ethan.perez8712@gmail.com,+1 (318) 826-5227,No especificado,2020-10-30,Frank,Female,43
+420,2025-03-21,Toys,129.25,10905,Charlie Reyes,charlie.reyes4228@aol.com,+1 (583) 913-1181,"4306 Main St, Apt 4, Springfield, NY 66745",No especificado,Elena,Female,50
+137,2025-03-10,Toys,384.2,10825,Emily Martin,emily.martin2497@protonmail.com,No especificado,"8885 Lakeview Dr, Fairview, TX 41558",2022-04-17,Alice,Male,58
+287,2025-05-29,Toys,478.18,10812, Edward Walker ,edward.walker0959@hotmail.com,No especificado,"8058 Main St, Greenville, CA 44108",2021-11-06,George,Female,38
+372,2025-05-12,Clothing,488.52,10615,Owen Rivera,owen.rivera8258@mail.com,+1 (722) 857-2341,"2882 Hillcrest Ave, Georgetown, TX 72754",2022-03-09,Bob,Male,43
+735,2025-08-03,Electronics,320.27,10492,Peter Smith,No especificado,+1 (849) 240-8367,"9406 Pine Ave, Greenville, NY 96498",2020-01-22,Hannah,Male,36
+350,2025-03-21,Sports,274.52,10153,Zach Gomez,zach.gomez0232@protonmail.com,No especificado,"5512 Main St, Greenville, NY 57745",2022-11-06,Alice,Female,56
+148,2025-02-08,Clothing,39.16,10092,No especificado,edward.howard8553@aol.com,+1 (919) 586-7476,"1563 Elm St, Centerville, CA 16340",2022-08-10,Carlos,Male,49
+418,2025-03-01,Sports,183.22,10702,Patrick Jimenez,patrick.jimenez5726@gmail.com,+1 (676) 867-4442,"4166 Hillcrest Ave, Apt 78, Arlington, FL 28532",2021-11-28,Carlos,Male,58
+478,2025-02-08,No especificado,345.42,10453,Zach Cook,zach.cook9351@hotmail.com,+1 (658) 937-9029,"6971 Lakeview Dr, Springfield, FL 94906",2020-01-22,Hannah,Female,47
+259,No especificado,Clothing,365.85,10493,William Edwards,william.edwards1155@protonmail.com,No especificado,"2888 Oak St, Apt 52, Centerville, CA 43517",2023-10-24,George,Female,45
+558,2025-08-03,Sports,429.49,10534,No especificado,melissa.flores7224@aol.com,No especificado,"3499 Washington Blvd, Fairview, NY 56685",2021-11-24,Carlos,Male,28
+964,2025-06-17,Sports,482.19,10607,Riley Walker,No especificado,No especificado,No especificado,No especificado,Elena,Female,53
+219,2025-01-29,Clothing,195.33,10732,Patrick Reed,patrick.reed5375@gmail.com,+1 (299) 935-3011,No especificado,No especificado,George,Female,40
+782,2025-06-25,Toys,412.15,10666,Ian Reed,ian.reed5084@protonmail.com,No especificado,"4451 Hillcrest Ave, Riverside, FL 01300",No especificado,Alice,Female,26
+226,2025-08-16,Clothing,85.54,1036,Logan Cooper,No especificado,+1 (276) 321-5266," 9147 Oak St, Centerville, FL 83006 ",2022-11-12,Alice,Female,62
+609,2025-06-24,Home & Kitchen,271.85,10246,Ray Hill,ray.hill6583@yahoo.com,No especificado,"8459 Cedar Ln, Riverside, IL 66057",2020-05-13,Hannah,Male,57
+212,2025-04-12,Sports,313.59,10361,Grace Smith,grace.smith7061@outlook.com,+1 (346) 753-9178,"4740 Washington Blvd, Centerville, FL 95400",2023-08-24,George,Female,30
+846,2025-02-05,Toys,151.05,10673, Zoe Lewis ,zoe.lewis3390@aol.com,+1 (855) 331-4265,"3276 Elm St, Centerville, IL 60800",2022-09-24,Bob,Male,62
+112,2025-08-17,Sports,459.62,10193,Robert Scott,robert.scott0710@hotmail.com,No especificado," 3795 Elm St, Franklin, NY 92747 ",2021-08-25,Hannah,Female,43
+304,2025-01-01,Toys,380.59,10853,Stella Bennett,stella.bennett1336@aol.com,+1 (363) 710-6187,"9695 Oak St, Springfield, NY 53892",2020-12-16,Carlos,Male,26
+430,2025-05-12,Sports,34.46,10725, Ophelia Adams ,No especificado,+1 (209) 505-8871," 2358 Elm St, Arlington, NY 24574 ",No especificado,Elena,Female,42
+290,2025-01-11,Toys,415.5,10674,Hailey Bailey,hailey.bailey3706@outlook.com,No especificado,"1090 Elm St, Clinton, CA 05290",2023-08-27,Elena,Female,43
+105,No especificado,Toys,323.85,10402,Ulysses Adams,ulysses.adams9878@protonmail.com,+1 (980) 920-6199,"1946 Oak St, Centerville, FL 44198",2021-08-29,George,Female,55
+336,2025-01-15,Home & Kitchen,267.81,10632, Zach Reyes ,zach.reyes9281@yahoo.com,+1 (994) 807-8316,"7902 Elm St, Apt 22, Fairview, FL 22733",2020-03-16,Carlos,Male,23
+604,2025-02-11,Electronics,73.9,10844,Oscar James,oscar.james1088@outlook.com,+1 (496) 552-1832,"1478 Cedar Ln, Riverside, FL 63125",2021-12-13,Frank,Male,42
+71,2025-06-22,Sports,36.5,10185, Charlie Rogers ,charlie.rogers6606@protonmail.com,+1 (405) 381-4286,"1523 Washington Blvd, Centerville, FL 09817",2019-10-14,Hannah,Male,44
+552,2025-06-23,Home & Kitchen,13.39,10616,Tyler Sanders,No especificado,+1 (414) 664-1887,No especificado,2022-05-14,Alice,Female,39
+943,2025-07-16,Toys,65.89,10352,Marcus Baker,marcus.baker7282@outlook.com,+1 (344) 771-1274,No especificado,2021-11-08,Diana,Female,120
+119,2025-07-20,Clothing,174.51,10535,Logan Kelly,logan.kelly4209@protonmail.com,+1 (661) 317-1061,"5967 Hillcrest Ave, Georgetown, TX 64437",2022-04-28,Carlos,Male,24
+223,2025-07-27,Electronics,481.93,10617,Bryan Martinez,bryan.martinez6896@gmail.com,+1 (437) 828-1324," 8258 Main St, Arlington, FL 08329 ",2021-12-18,Elena,Female,41
+232,2025-08-07,Sports,No especificado,10742,William Parker,william.parker8270@aol.com,+1 (215) 336-8161,"4720 Hillcrest Ave, Georgetown, NY 98436",No especificado,Diana,Female,22
+754,2025-05-13,Sports,297.89,10194,Hailey Lee,hailey.lee0429@hotmail.com,No especificado,"7127 Maple Dr, Centerville, CA 88740",2023-01-07,George,Female,64
+298,2025-07-25,Sports,240.79,10314,Quentin Turner,quentin.turner1992@mail.com,No especificado,No especificado,2019-11-22,Alice,Female,55
+979,2025-06-01,Sports,8.79,10703,Tyler Ruiz,tyler.ruiz6929@gmail.com,No especificado,"1477 Hillcrest Ave, Apt 63, Greenville, CA 10929",2019-08-03,George,Female,27
+560,2025-06-03,Sports,150.28,10232,Erin Allen,erin.allen3261@gmail.com,+1 (260) 329-6260,"4418 Cedar Ln, Georgetown, IL 55547",2023-06-20,Alice,Female,61
+54,2025-03-05,Clothing,459.53,10343, Rebecca Davis ,rebecca.davis9033@hotmail.com,+1 (983) 853-2313,"2866 Hillcrest Ave, Arlington, FL 72237",2019-09-05,Hannah,Male,61
+951,2025-02-26,Home & Kitchen,24.53,10624,Noah Gomez,noah.gomez8833@protonmail.com,+1 (314) 637-3739,"8832 Cedar Ln, Madison, NY 92466",2020-07-23,Diana,Female,40
+193,2025-04-08,Electronics,195.18,10494,Henry Cooper,henry.cooper0206@yahoo.com,No especificado," 8054 Hillcrest Ave, Apt 11, Springfield, FL 91021 ",2023-07-25,George,Female,22
+522,2025-06-21,Electronics,348.6,10575, Isabel Morales ,isabel.morales4022@yahoo.com,+1 (227) 667-8386,"3555 Pine Ave, Arlington, IL 26872",2021-10-28,Diana,Male,33
+406,2025-03-09,No especificado,116.88,10273,Frank Flores,frank.flores5512@hotmail.com,+1 (839) 707-7961,"9652 Elm St, Fairview, NY 08880",2020-03-09,Elena,Female,46
+124,2025-01-05,Toys,80.04,10608, Brianna Wright ,No especificado,No especificado,No especificado,2020-12-31,Alice,Female,60
+606,2025-04-30,No especificado,411.98,10524,Tyler Miller,No especificado,+1 (620) 262-8337,"8428 Lakeview Dr, Apt 12, Madison, CA 30563",2021-01-12,Elena,Female,42
+82,2025-01-25,Sports,224.8,10013,Liam Moore,liam.moore9528@aol.com,+1 (606) 622-2041," 9954 Washington Blvd, Apt 94, Riverside, NY 61287 ",2023-06-12,Frank,Male,22
+438,2025-07-05,Electronics,251.95,1069,Jane Smith,jane.smith9088@aol.com,No especificado,"5072 Elm St, Apt 73, Madison, IL 64763",2019-10-30,Elena,Female,26
+185,2025-07-01,Electronics,7.73,10754,Dave Ward,No especificado,+1 (658) 602-8144," 4668 Hillcrest Ave, Apt 45, Clinton, NY 06341 ",2023-11-03,Alice,Female,38
+905,2025-01-17,Electronics,185.47,10462, Faith Turner ,faith.turner8769@gmail.com,+1 (757) 605-5019,"7132 Pine Ave, Springfield, CA 32674",2019-03-05,Frank,Male,24
+626,2025-04-16,Clothing,445.62,10563,Isaac Lewis,isaac.lewis0324@mail.com,No especificado,"3516 Maple Dr, Franklin, IL 39781",2020-01-17,Alice,Female,37
+355,2025-06-18,Sports,420.47,10872,Zoey Morgan,zoey.morgan9930@hotmail.com,No especificado," 1821 Pine Ave, Georgetown, NY 35307 ",No especificado,Carlos,Male,120
+634,2025-06-09,Clothing,191.77,10618,Kara Thomas,kara.thomas6851@protonmail.com,+1 (429) 264-5915,"4922 Lakeview Dr, Greenville, TX 19581",2021-12-28,Frank,Female,57
+524,2025-08-05,Sports,281.07,10813,Stella Cooper,stella.cooper5416@gmail.com,No especificado,No especificado,No especificado,George,Female,40
+729,2025-06-01,Electronics,290.75,10667, Tom Scott ,tom.scott5509@outlook.com,+1 (269) 925-3449,"6435 Maple Dr, Georgetown, NY 45687",2022-01-28,Frank,Female,36
+941,2025-06-01,Electronics,379.87,10832,Marcus Cook,marcus.cook2982@yahoo.com,+1 (514) 927-4333," 1316 Elm St, Apt 24, Madison, IL 34372 ",2019-12-31,Elena,Female,29
+894,2025-01-18,Clothing,305.91,10291,Fiona Young,fiona.young9152@protonmail.com,+1 (625) 936-1061,"2795 Maple Dr, Clinton, TX 82691",2019-02-08,Bob,Male,41
+246,No especificado,Clothing,252.8,10793, Connor Parker ,connor.parker8000@gmail.com,No especificado,"901 Cedar Ln, Apt 99, Fairview, TX 40894",2020-02-20,Frank,Female,33
+23,2025-03-01,Electronics,159.37,10743,No especificado,sara.ramirez1001@gmail.com,+1 (887) 858-5862,"2381 Elm St, Greenville, CA 76684",2023-10-27,Carlos,Male,42
+916,2025-04-08,Home & Kitchen,188.62,10173,Kara Hughes,No especificado,+1 (734) 768-5970," 6314 Cedar Ln, Riverside, CA 23867 ",No especificado,Carlos,Male,41
+570,2025-01-12,Clothing,26.73,10174,Olivia Gonzalez,olivia.gonzalez3541@mail.com,+1 (373) 242-6544," 9222 Lakeview Dr, Apt 88, Greenville, IL 30575 ",2022-11-10,Frank,Male,29
+853,2025-05-28,Home & Kitchen,206.73,10854, Peter Ortiz ,peter.ortiz2769@yahoo.com,No especificado,"312 Main St, Apt 44, Georgetown, IL 10233",2021-01-21,Diana,Female,54
+632,2025-07-20,Toys,133.37,10593,Erin Wilson,erin.wilson1619@gmail.com,+1 (539) 574-1627,"9429 Elm St, Arlington, TX 09595",No especificado,Elena,Female,29
+321,2025-05-03,Clothing,355.32,10392,No especificado,diana.collins1141@aol.com,+1 (259) 912-3096,"4969 Lakeview Dr, Franklin, FL 83702",2021-07-11,Bob,Male,42
+577,2025-09-07,Electronics,490.59,10771,Yvonne Carter,yvonne.carter6885@hotmail.com,+1 (956) 563-4899,"8056 Lakeview Dr, Apt 75, Riverside, FL 00407",2023-01-02,Alice,Female,57
+595,2025-05-17,Clothing,296.42,10375,Noah Collins,No especificado,+1 (574) 586-1080,"6007 Hillcrest Ave, Springfield, TX 22118",2020-10-11,Frank,Female,22
+155,2025-05-07,Clothing,232.53,10115, Peter Clark ,peter.clark3111@hotmail.com,+1 (627) 976-3250,"3458 Hillcrest Ave, Madison, TX 25484",2019-09-27,Bob,Male,51
+925,2025-04-21,Toys,11.14,10814,No especificado,nina.scott5125@aol.com,+1 (322) 663-4947,"4609 Hillcrest Ave, Franklin, CA 47490",2019-05-12,Carlos,Male,59
+940,2025-01-03,Clothing,478.94,10794,Quinn Morris,quinn.morris8250@hotmail.com,No especificado,"6221 Pine Ave, Apt 52, Georgetown, FL 17064",2022-06-06,Alice,Female,50
+706,2025-08-31,Toys,37.67,10285,No especificado,charlie.lopez8626@protonmail.com,+1 (561) 468-3910,"6128 Main St, Centerville, IL 87491",2020-05-17,George,Female,47
+435,2025-08-24,Toys,189.01,10353, Owen Jimenez ,No especificado,+1 (982) 743-5189,"2957 Main St, Madison, CA 89463",No especificado,Alice,Female,58
+466,2025-03-10,Clothing,81.3,10074,Violet Thomas,No especificado,No especificado,"1572 Hillcrest Ave, Apt 17, Greenville, IL 45988",2020-03-19,Elena,Female,54
+409,2025-08-10,Toys,217.82,10315,Quinn Hall,quinn.hall0372@yahoo.com,+1 (319) 663-5052,"5174 Pine Ave, Arlington, CA 54928",2020-03-28,Frank,Male,37
+834,2025-02-19,Electronics,386.23,10484,Tina White,tina.white1359@outlook.com,+1 (503) 565-2297,"3570 Maple Dr, Madison, CA 03262",2020-04-17,Frank,Male,25
+652,2025-05-10,Home & Kitchen,292.14,10477,Samantha Parker,samantha.parker3602@protonmail.com,+1 (220) 337-8051,"4070 Washington Blvd, Apt 40, Madison, TX 45112",2023-11-15,Carlos,Male,27
+960,2025-09-01,Clothing,142.02,10403,Alice Phillips,alice.phillips0050@hotmail.com,+1 (752) 443-5016,"3263 Pine Ave, Arlington, TX 81371",2019-08-29,George,Female,29
+821,2025-06-08,Home & Kitchen,96.74,10044,Stella Turner,stella.turner1249@outlook.com,+1 (443) 695-2644," 643 Lakeview Dr, Riverside, CA 46711 ",2020-11-22,Diana,Female,58
+852,2025-08-01,Electronics,397.33,10787,Penelope Robinson,penelope.robinson2488@outlook.com,No especificado,"5281 Elm St, Apt 75, Georgetown, IL 11236",2023-08-24,Hannah,Female,58
+874,2025-07-25,Sports,196.89,10788, Holly Diaz ,No especificado,No especificado,"6971 Hillcrest Ave, Georgetown, NY 99482",2023-03-08,Elena,Female,41
+717,2025-02-24,Sports,318.88,10164,Nina Jimenez,nina.jimenez4974@gmail.com,+1 (683) 401-5034,"4903 Main St, Centerville, FL 01433",2020-08-06,Bob,Male,58
+130,2025-03-14,Electronics,333.21,10412,Travis Cruz,travis.cruz5527@mail.com,+1 (451) 273-5648,"3142 Hillcrest Ave, Apt 11, Clinton, NY 77131",2021-04-11,Bob,Female,63
+288,2025-07-07,Electronics,275.56,10892, Gavin Bennett ,No especificado,+1 (798) 846-8157,"5579 Maple Dr, Apt 9, Madison, CA 14773",2022-07-04,Diana,Female,54
+678,2025-06-10,Clothing,37.89,10292,Edward Nelson,edward.nelson6597@hotmail.com,+1 (934) 620-8857,No especificado,2022-10-12,Bob,Male,49
+779,2025-01-16,Clothing,472.3,10003, Daniel Flores ,daniel.flores1002@mail.com,+1 (686) 531-3242,"119 Pine Ave, Madison, IL 84962",2019-09-26,Hannah,Male,42
+516,2025-02-19,Electronics,No especificado,10833,Hank Kim,hank.kim3872@outlook.com,+1 (467) 708-2559,"9613 Pine Ave, Georgetown, FL 56568",2022-04-18,Bob,Female,41
+280,2025-05-25,Sports,383.95,10233, Grace Cooper ,grace.cooper0239@hotmail.com,No especificado,No especificado,2019-11-17,Elena,Female,54
+506,2025-05-26,Toys,473.81,10024, Zoey Torres ,zoey.torres0993@mail.com,+1 (851) 567-8687,"8927 Sunset Blvd, Franklin, CA 19327",2022-09-24,Bob,Female,53
+322,2025-04-23,Home & Kitchen,5.77,10053,Felix Gray,felix.gray1268@protonmail.com,+1 (521) 898-2455,"1969 Cedar Ln, Greenville, NY 85992",2022-12-05,Frank,Male,53
+238,2025-05-30,Sports,258.77,10014,Kevin Ramirez,kevin.ramirez3440@mail.com,No especificado," 3092 Pine Ave, Arlington, NY 71109 ",2023-11-11,Frank,Male,51
+842,2025-08-28,Clothing,52.22,10883,Oscar Kim,oscar.kim4850@outlook.com,+1 (354) 779-1366,"407 Main St, Apt 27, Riverside, FL 45066",2022-03-30,Elena,Female,29
+464,2025-01-08,Electronics,348.34,10423,Liam Torres,No especificado,No especificado,"1710 Maple Dr, Georgetown, NY 92546",2023-05-26,Frank,Female,24
+138,2025-07-07,Electronics,245.57,10062,No especificado,patrick.cox6826@gmail.com,+1 (800) 690-8315,No especificado,No especificado,Bob,Male,44
+659,2025-06-14,Clothing,22.83,10344, Holly Evans ,holly.evans4376@yahoo.com,+1 (330) 670-5036,No especificado,2022-11-18,Alice,Female,26
+571,2025-02-07,Sports,152.13,10116,Ian Smith,ian.smith5709@gmail.com,+1 (939) 646-1170,"4263 Main St, Fairview, TX 85521",2022-03-04,Diana,Female,22
+95,2025-06-24,Toys,No especificado,10564, Yuri Reed ,yuri.reed1814@gmail.com,+1 (652) 249-6501,"8719 Elm St, Franklin, IL 24204",2022-12-05,Alice,Female,54
+397,2025-06-13,Electronics,440.68,1050,Tyler Gomez,No especificado,No especificado,"5693 Maple Dr, Apt 31, Fairview, NY 75636",2019-12-08,Diana,Female,58
+149,2025-04-08,Home & Kitchen,206.75,10826, Erin Nguyen ,No especificado,+1 (705) 595-6191,"4069 Pine Ave, Apt 2, Centerville, FL 13855",2019-05-02,Carlos,Male,23
+70,2025-06-02,Electronics,415.09,10081, Aaron Nguyen ,aaron.nguyen9292@aol.com,+1 (495) 278-4422,"6115 Sunset Blvd, Fairview, NY 80376",2019-01-26,Elena,Female,35
+497,2025-05-23,Sports,293.97,10884,Beth Moore,beth.moore3763@protonmail.com,No especificado," 5528 Elm St, Arlington, NY 43959 ",2022-03-28,Diana,Female,45
+722,2025-05-24,Electronics,No especificado,10982, Connor Myers ,connor.myers5773@gmail.com,+1 (853) 898-9277,"9778 Oak St, Riverside, FL 13582",2022-03-12,Hannah,Female,60
+170,2025-03-04,Clothing,No especificado,10726,Diana Wright,diana.wright9231@yahoo.com,+1 (299) 874-8565,"6780 Sunset Blvd, Apt 63, Clinton, CA 81243",2021-08-07,Hannah,Male,30
+248,2025-06-07,Clothing,208.46,10834, Daniel Flores ,No especificado,+1 (257) 696-8979,"5762 Oak St, Apt 83, Greenville, FL 16168",No especificado,Elena,Female,58
+998,2025-05-03,Toys,303.73,10385,Holly Chavez,holly.chavez9133@gmail.com,+1 (410) 204-3172,"1969 Pine Ave, Springfield, TX 21039",2020-08-31,Carlos,Male,43
+267,2025-02-05,Electronics,273.14,10805,Faith Gomez,faith.gomez1945@yahoo.com,No especificado,"608 Lakeview Dr, Centerville, IL 91731",2022-06-08,Bob,Female,46
+80,2025-07-07,Toys,490.47,10835,Peter Scott,peter.scott2859@gmail.com,No especificado,"2110 Cedar Ln, Greenville, IL 35939",2023-10-24,Hannah,Female,50
+320,2025-01-05,Clothing,432.96,10054,Jacob Rogers,jacob.rogers9509@aol.com,No especificado,"2246 Sunset Blvd, Clinton, NY 99853",No especificado,Frank,Female,54
+111,2025-03-29,Home & Kitchen,319.87,10214, Amber King ,amber.king2411@gmail.com,+1 (324) 665-4961," 4612 Hillcrest Ave, Greenville, IL 22770 ",2022-07-09,Carlos,Male,61
+422,2025-04-28,Home & Kitchen,394.84,10302, Steven Hughes ,steven.hughes6769@yahoo.com,+1 (727) 628-7298,No especificado,2023-08-26,Hannah,Male,49
+582,2025-08-03,Toys,146.46,10286,No especificado,uma.morales2477@protonmail.com,No especificado," 5706 Pine Ave, Franklin, TX 51165 ",2022-06-19,George,Female,48
+186,2025-08-04,Home & Kitchen,402.72,10413, Frank Carter ,frank.carter6372@hotmail.com,+1 (891) 453-9925,"167 Main St, Apt 20, Riverside, NY 26348",2019-06-12,Diana,Female,23
+672,No especificado,Sports,358.64,10633,Quincy Myers,quincy.myers2665@gmail.com,+1 (386) 288-8704,"9484 Oak St, Apt 56, Madison, NY 92286",2020-06-12,Elena,Female,55
+637,2025-03-17,Toys,133.84,10485,Molly Watson,molly.watson7092@gmail.com,No especificado,"813 Maple Dr, Springfield, TX 45031",2020-10-10,Bob,Male,49
+339,2025-01-25,Toys,314.27,10463, Molly Mitchell ,molly.mitchell3603@outlook.com,+1 (893) 861-5778,"1830 Pine Ave, Centerville, NY 18414",2020-03-12,Diana,Female,23
+52,2025-08-14,Toys,40.53,10323,No especificado,ophelia.lopez2462@aol.com,+1 (361) 449-9571,"8288 Pine Ave, Madison, IL 23055",2021-07-19,Bob,Male,38
+950,2025-07-18,Sports,78.65,10543, George Moore ,george.moore9593@protonmail.com,+1 (600) 243-7937," 6927 Oak St, Fairview, TX 08276 ",2020-11-04,Diana,Female,26
+292,2025-07-12,Clothing,150.84,10055,Paul Hill,paul.hill8705@gmail.com,No especificado,"3413 Hillcrest Ave, Georgetown, IL 58885",No especificado,George,Female,51
+236,2025-02-11,Home & Kitchen,25.8,10755,No especificado,violet.kim4804@mail.com,+1 (599) 471-2798,"9807 Maple Dr, Arlington, NY 66057",2023-12-25,Alice,Female,44
+311,2025-04-07,Sports,184.15,10525,No especificado,bob.turner3371@protonmail.com,+1 (802) 594-2850,"5530 Oak St, Centerville, FL 18937",2022-09-28,Frank,Female,50
+902,2025-04-14,Electronics,415.55,10711,Adrian Murphy,adrian.murphy8950@yahoo.com,+1 (694) 329-9578,"2887 Elm St, Georgetown, TX 07070",2023-02-21,Alice,Female,57
+364,2025-06-14,Clothing,437.48,10205,Robert Bailey,robert.bailey0683@gmail.com,+1 (449) 248-4345,"6785 Pine Ave, Apt 62, Greenville, CA 85206",2021-12-29,Hannah,Female,49
+110,2025-05-10,Sports,231.97,10815,Queen Phillips,queen.phillips8248@aol.com,No especificado," 5492 Pine Ave, Arlington, NY 90816 ",2022-04-20,Frank,Female,56
+8,2025-01-25,Electronics,No especificado,10609,No especificado,jocelyn.gonzalez2832@aol.com,+1 (636) 456-9660,"8527 Maple Dr, Apt 36, Georgetown, TX 33157",2023-11-05,Bob,Female,40
+624,2025-07-17,Sports,447.58,10772, Fiona Sanchez ,fiona.sanchez4735@aol.com,+1 (289) 836-6793,"8317 Pine Ave, Franklin, NY 10254",2021-01-25,Bob,Male,31
+683,2025-03-22,Home & Kitchen,75.72,10647,No especificado,rebecca.kim9534@outlook.com,+1 (433) 539-3207," 9533 Main St, Apt 34, Georgetown, NY 29776 ",2022-07-01,Carlos,Male,59
+954,2025-05-16,Home & Kitchen,428.99,10393,Kara Mitchell,kara.mitchell7748@hotmail.com,+1 (255) 968-6348,"988 Washington Blvd, Apt 31, Franklin, IL 03554",2020-05-08,Frank,Female,25
+901,2025-01-17,Toys,138.77,10362, Frank Mendoza ,frank.mendoza1176@yahoo.com,+1 (894) 332-2986,No especificado,2021-07-03,Bob,Male,32
+90,2025-07-11,Clothing,187.51,10404,Marcus Diaz,marcus.diaz0757@hotmail.com,+1 (420) 819-1422,"9112 Cedar Ln, Franklin, IL 64450",2022-11-15,Frank,Female,32
+512,2025-01-04,Toys,480.27,10223, Kyle Ruiz ,kyle.ruiz8284@yahoo.com,+1 (358) 303-1443,"8611 Oak St, Apt 43, Fairview, FL 00789",2021-03-05,Hannah,Female,56
+942,2025-02-24,Clothing,303.88,10964,Emily Kim,emily.kim7571@protonmail.com,+1 (358) 810-2999,"8219 Cedar Ln, Greenville, NY 98002",No especificado,Frank,Female,No especificado
+584,2025-06-05,Electronics,466.22,10733, Riley Smith ,riley.smith4019@mail.com,+1 (268) 884-1169," 5339 Elm St, Springfield, NY 28238 ",2023-05-13,Carlos,Male,47
+674,2025-03-23,Electronics,345.07,10247,Brianna Foster,brianna.foster4279@aol.com,No especificado,"833 Cedar Ln, Apt 15, Franklin, TX 22448",2020-05-20,Carlos,Male,56
+809,2025-02-10,Electronics,317.31,10934, Isaac Patel ,isaac.patel5077@outlook.com,No especificado,"8801 Maple Dr, Apt 26, Springfield, FL 32399",2019-10-04,Hannah,Female,23
+405,2025-01-29,Home & Kitchen,362.74,10316,No especificado,No especificado,+1 (950) 850-3237,"8061 Pine Ave, Arlington, NY 41590",2020-10-02,Elena,Female,53
+286,2025-02-28,Clothing,354.95,10287,Quentin Bennett,No especificado,No especificado,No especificado,2023-04-06,Elena,Female,15
+450,2025-02-13,Sports,104.65,10175,Natalie Bailey,natalie.bailey8159@aol.com,No especificado,"1250 Elm St, Apt 54, Springfield, TX 72055",2022-10-10,Elena,Female,37
+817,No especificado,Clothing,143.94,10486,No especificado,yosef.cox1914@gmail.com,+1 (718) 905-5182,"6801 Hillcrest Ave, Fairview, TX 21457",2020-10-28,Alice,Female,59
+16,2025-06-11,Sports,299.59,10394, Hank Hernandez ,hank.hernandez7411@gmail.com,No especificado,"6564 Hillcrest Ave, Clinton, CA 47053",2023-02-04,Elena,Female,24
+990,2025-03-19,Clothing,457.08,10501, Violet Davis ,violet.davis2973@yahoo.com,+1 (418) 206-2965," 781 Washington Blvd, Apt 13, Georgetown, NY 87205 ",2023-05-06,Bob,Female,57
+145,2025-07-17,Sports,75.71,10045,Gavin Hernandez,gavin.hernandez0209@aol.com,+1 (329) 861-6859,"7748 Hillcrest Ave, Apt 44, Clinton, NY 72920",2020-02-06,Frank,Male,53
+341,2025-03-20,Home & Kitchen,488.13,10293,No especificado,kara.jones1814@gmail.com,No especificado,"6666 Oak St, Georgetown, FL 85438",2019-01-25,George,Female,38
+11,2025-05-03,Electronics,298.64,10056,Zoey Nelson,zoey.nelson2543@mail.com,No especificado,"1701 Maple Dr, Apt 30, Franklin, IL 22547",2019-05-18,Alice,Female,32
+692,2025-08-12,Electronics,26.0,10734, Hailey Baker ,hailey.baker2925@gmail.com,+1 (738) 264-4442,"6741 Pine Ave, Apt 49, Franklin, TX 99384",2019-07-27,Elena,Female,42
+976,2025-03-16,Clothing,173.6,10836,Brianna Lewis,brianna.lewis9202@mail.com,+1 (824) 395-8920,"6698 Washington Blvd, Greenville, FL 18254",2021-09-13,Bob,Male,61
+887,2025-08-05,No especificado,107.5,10686,Logan Cox,No especificado,+1 (497) 350-8444,"5743 Maple Dr, Apt 56, Franklin, CA 24315",2020-12-09,Bob,Male,26
+588,2025-05-11,Toys,247.0,10576,Xander Patel,xander.patel9267@mail.com,No especificado," 1455 Oak St, Riverside, IL 62480 ",2023-08-27,Frank,Female,34
+884,2025-08-01,Electronics,226.29,10264, Steven Phillips ,steven.phillips2951@protonmail.com,+1 (618) 974-3468,No especificado,2021-07-16,George,Male,32
+446,2025-02-18,Electronics,201.52,10376,Leo Rivera,leo.rivera1464@gmail.com,+1 (231) 683-9136,"7087 Sunset Blvd, Franklin, NY 08193",2021-01-03,Bob,Male,26
+303,2025-05-11,Toys,414.62,10345,Ian Phillips,ian.phillips7584@outlook.com,+1 (731) 327-8221,"5390 Pine Ave, Georgetown, IL 10554",2022-08-27,Alice,Female,54
+324,2025-08-15,Toys,147.76,10764, Brianna Diaz ,brianna.diaz7365@protonmail.com,No especificado,No especificado,2022-03-03,Frank,Male,54
+621,2025-03-25,Home & Kitchen,479.18,10432,Grace Ward,grace.ward0472@yahoo.com,+1 (372) 685-4466,"1155 Maple Dr, Madison, IL 07228",2020-01-04,George,Female,44
+410,2025-07-15,Sports,219.2,10827,Olivia Cruz,olivia.cruz0206@hotmail.com,+1 (293) 934-3166,"4535 Elm St, Apt 69, Fairview, CA 50285",2021-02-25,Bob,Male,60
+302,No especificado,Home & Kitchen,497.44,10957,Fiona Castillo,fiona.castillo4189@yahoo.com,+1 (998) 352-9640,"2351 Pine Ave, Greenville, TX 33460",2021-05-29,Diana,Female,49
+526,2025-08-10,No especificado,478.62,10773,Quentin Turner,quentin.turner4070@aol.com,+1 (992) 645-8300,"3919 Cedar Ln, Riverside, FL 75931",2020-06-28,Bob,Male,30
+473,2025-04-16,Electronics,364.89,10935,No especificado,stella.wilson2179@protonmail.com,+1 (521) 596-3449,"8748 Elm St, Apt 3, Madison, TX 59050",2021-07-11,Frank,Female,52
+949,2025-08-22,Home & Kitchen,174.87,10004,No especificado,marcus.cruz4926@outlook.com,+1 (973) 794-8323,No especificado,2019-04-10,Diana,Female,58
+433,2025-06-28,Sports,260.7,10487,No especificado,noah.ross4143@hotmail.com,No especificado,"204 Maple Dr, Madison, TX 36508",2021-01-30,Diana,Female,54
+631,No especificado,Toys,64.5,10914,Jocelyn Walker,jocelyn.walker2819@protonmail.com,+1 (519) 703-9497," 8363 Maple Dr, Apt 98, Greenville, TX 47820 ",2023-04-05,Hannah,Male,49
+401,2025-05-16,Electronics,211.2,10973,No especificado,jane.rogers1181@protonmail.com,+1 (448) 413-4633,"2257 Sunset Blvd, Springfield, NY 16544",2021-12-21,Diana,Female,33
+788,2025-08-02,Home & Kitchen,246.4,10565,No especificado,kara.roberts3656@gmail.com,+1 (858) 308-2879,No especificado,2021-06-12,George,Female,47
+495,2025-05-31,Clothing,269.31,10248,Robert Torres,robert.torres3554@aol.com,+1 (940) 604-7739," 2355 Sunset Blvd, Greenville, FL 07054 ",2023-07-26,Frank,Male,58
+441,2025-02-28,Electronics,398.13,10675, Natalie Morris ,natalie.morris5263@mail.com,+1 (229) 534-9807,"6430 Pine Ave, Riverside, FL 70955",2020-04-15,Frank,Male,52
+953,2025-06-26,Electronics,241.07,10756, Hailey Gray ,No especificado,No especificado," 5611 Hillcrest Ave, Springfield, NY 94950 ",2022-06-22,George,Female,47
+859,2025-01-03,Sports,404.45,10495,Paul Clark,paul.clark3248@yahoo.com,+1 (392) 453-8747,"3609 Oak St, Georgetown, FL 72409",2023-01-11,Elena,Female,51
+256,2025-05-02,Clothing,422.61,10668, Jocelyn Parker ,jocelyn.parker8101@mail.com,+1 (975) 398-3998,"9212 Washington Blvd, Apt 46, Centerville, CA 89246",No especificado,Hannah,Male,41
+864,2025-03-29,Toys,33.63,10915,Riley Phillips,riley.phillips6289@yahoo.com,No especificado,"6932 Lakeview Dr, Riverside, TX 46666",No especificado,Frank,Female,30
+278,2025-01-15,Electronics,124.74,10502, Bob Morales ,bob.morales1668@mail.com,+1 (718) 835-1231," 7497 Washington Blvd, Apt 29, Greenville, TX 72267 ",2019-06-07,Bob,Female,54
+642,2025-06-08,Toys,94.9,106010,Kara Nguyen,kara.nguyen4826@aol.com,+1 (531) 625-4742,"4884 Oak St, Clinton, NY 33265",2023-10-20,Frank,Male,48
+698,2025-03-28,Sports,195.0,10691,Zoey Wood,zoey.wood2687@aol.com,+1 (560) 219-7899,"7630 Elm St, Apt 67, Fairview, NY 04354",2020-12-30,Frank,Female,22
+985,2025-08-31,Toys,41.18,10215,Noah Taylor,noah.taylor3569@hotmail.com,+1 (382) 515-3604,"2696 Cedar Ln, Georgetown, FL 41657",2019-01-19,Bob,Male,50
+480,2025-04-06,Toys,No especificado,10589, Peter Gonzalez ,peter.gonzalez1314@mail.com,+1 (914) 624-9782,"2939 Elm St, Georgetown, CA 52771",2023-10-10,Bob,Male,50
+281,2025-08-17,Clothing,59.94,10687, Uma Moore ,No especificado,+1 (948) 488-9941,"8876 Cedar Ln, Fairview, TX 20371",2019-06-09,Bob,Female,35
+539,2025-02-27,Electronics,205.12,10774,Brianna Ward,No especificado,+1 (616) 472-2279,"6920 Main St, Apt 7, Greenville, NY 98202",2022-05-20,Hannah,Female,44
+440,2025-08-19,Toys,154.13,10712, Kelly Gonzalez ,kelly.gonzalez8577@hotmail.com,No especificado," 5072 Sunset Blvd, Georgetown, TX 38152 ",2021-04-25,Diana,Female,55
+906,2025-03-31,Sports,394.17,10936,Kevin Gutierrez,kevin.gutierrez1804@protonmail.com,+1 (396) 946-9392," 8626 Elm St, Greenville, TX 74554 ",2021-07-06,George,Female,54
+759,2025-01-12,Home & Kitchen,234.73,10544, Delilah Young ,delilah.young3694@aol.com,No especificado,"7845 Sunset Blvd, Fairview, FL 98806",No especificado,Frank,Male,32
+946,2025-06-24,Sports,114.32,10154, Yvonne Stewart ,yvonne.stewart3769@yahoo.com,+1 (513) 467-5473,No especificado,2023-07-29,Frank,Female,51
+612,2025-07-11,Electronics,109.94,10294,Amber Hughes,amber.hughes6012@hotmail.com,+1 (413) 951-9072,"6706 Washington Blvd, Apt 20, Franklin, IL 88622",2021-08-25,Alice,Female,41
+291,2025-06-21,Clothing,440.76,10354,Alice Stewart,alice.stewart9011@aol.com,+1 (640) 858-5169,"8487 Sunset Blvd, Arlington, TX 74109",2022-02-28,Bob,Female,43
+592,2025-02-01,Home & Kitchen,37.52,10433,Catherine Sanders,catherine.sanders0677@outlook.com,+1 (845) 836-6033,No especificado,2021-10-03,George,Female,29
+3,2025-02-11,Toys,159.05,10224, Henry Martin ,henry.martin0365@mail.com,+1 (378) 615-9326,"785 Elm St, Centerville, FL 70040",2019-01-11,Carlos,Male,36
+102,2025-03-30,Toys,371.25,10795, Delilah Patel ,delilah.patel3431@gmail.com,+1 (513) 502-7451," 4535 Main St, Apt 26, Arlington, NY 24754 ",2023-09-07,Bob,Female,30
+153,2025-05-25,Toys,381.7,10536,Emily Hernandez,emily.hernandez3046@hotmail.com,+1 (362) 866-5993,"2837 Lakeview Dr, Fairview, IL 92651",2022-02-11,Frank,Female,49
+369,2025-06-04,Home & Kitchen,55.44,10688,Queen Young,queen.young3288@outlook.com,+1 (633) 661-3363,"5848 Oak St, Georgetown, FL 75985",2020-05-09,Hannah,Female,43
+165,2025-07-18,Clothing,423.73,10865,Kyle Wilson,kyle.wilson2020@hotmail.com,+1 (812) 329-5633,No especificado,2023-10-20,Hannah,Female,24
+537,2025-06-14,Home & Kitchen,112.86,10625,Jasmine Flores,jasmine.flores9339@yahoo.com,No especificado,"7280 Main St, Greenville, TX 84322",2022-06-22,Bob,Male,42
+585,2025-04-14,Clothing,155.85,10566,Quentin Cox,quentin.cox5988@gmail.com,+1 (928) 413-6412," 2150 Pine Ave, Arlington, CA 61743 ",2019-07-03,Diana,Female,40
+348,2025-06-07,Sports,283.23,10377,Logan Moore,logan.moore0894@aol.com,No especificado,"3496 Cedar Ln, Apt 1, Georgetown, CA 74699",2020-01-25,Bob,Male,63
+7,2025-08-06,Clothing,405.08,10124, Robert Mendoza ,robert.mendoza4800@mail.com,+1 (899) 966-2474,"9463 Pine Ave, Springfield, NY 56086",2021-02-14,Carlos,Male,60
+458,2025-02-06,Sports,252.7,10288,Gavin Ruiz,No especificado,+1 (861) 773-1950,"3827 Elm St, Madison, IL 05264",2020-03-09,Frank,Male,56
+640,2025-01-02,Clothing,250.65,10274, Ophelia Cook ,ophelia.cook8688@protonmail.com,+1 (420) 260-5958,"5335 Hillcrest Ave, Georgetown, CA 74793",2023-03-08,Elena,Female,62
+415,2025-01-12,Toys,251.28,10545,Tina Flores,tina.flores6118@outlook.com,No especificado,"9572 Maple Dr, Arlington, TX 69163",2023-01-30,Hannah,Male,33
+965,2025-02-24,Electronics,No especificado,10669,Charlie Taylor,charlie.taylor9573@mail.com,No especificado," 3013 Maple Dr, Fairview, CA 38330 ",2020-03-06,Frank,Male,59
+214,2025-09-13,Toys,347.78,10454,Grace Price,grace.price7789@protonmail.com,+1 (825) 618-3424,"7803 Main St, Apt 14, Clinton, IL 12211",2019-01-24,Frank,Female,37
+932,2025-06-27,Home & Kitchen,207.66,10676,George Cook,george.cook1976@gmail.com,+1 (940) 675-2755,"2006 Maple Dr, Clinton, NY 55737",2021-12-24,Diana,Female,30
+912,2025-01-27,Sports,418.56,10195,Kevin Lee,kevin.lee9467@mail.com,No especificado," 1104 Cedar Ln, Madison, TX 32702 ",2019-12-25,Alice,Female,23
+929,2025-05-12,Home & Kitchen,85.7,10893,Hailey Reed,hailey.reed7427@protonmail.com,+1 (922) 770-8729,"1618 Oak St, Georgetown, IL 23916",2021-12-20,Carlos,Male,26
+808,2025-07-26,Electronics,475.48,10537,John Jimenez,No especificado,+1 (804) 319-5296,"9411 Pine Ave, Georgetown, FL 72789",2023-03-29,Diana,Female,45
+988,2025-03-18,Clothing,193.36,10553, Nina Wright ,nina.wright3655@protonmail.com,+1 (441) 241-4172,"6115 Hillcrest Ave, Apt 46, Springfield, FL 73959",2020-09-08,Frank,Male,60
+650,2025-09-12,Electronics,376.83,10289,Zach Bennett,zach.bennett7233@yahoo.com,No especificado,No especificado,No especificado,Alice,Female,34
+538,2025-06-27,Sports,71.47,10093,Gavin Davis,gavin.davis5171@hotmail.com,No especificado," 8580 Hillcrest Ave, Apt 24, Clinton, FL 28931 ",2023-08-23,Elena,Female,57
+978,2025-06-15,Clothing,132.52,10094,Jane Nguyen,jane.nguyen9802@hotmail.com,No especificado,"9240 Oak St, Springfield, FL 57893",No especificado,Hannah,Female,27
+967,2025-03-18,Electronics,77.75,10414,Quincy Sanders,quincy.sanders9638@mail.com,+1 (325) 436-1048,"1502 Washington Blvd, Apt 11, Clinton, FL 29831",2019-08-15,George,Female,120
+408,2025-07-23,Toys,226.6,10757, Molly Robinson ,molly.robinson5001@aol.com,+1 (937) 517-2957,"8977 Sunset Blvd, Georgetown, FL 34636",2019-09-28,Bob,Female,22
+49,2025-08-08,Sports,263.12,10692,Quentin Campbell,quentin.campbell6665@gmail.com,+1 (847) 384-7540,"9419 Elm St, Clinton, IL 06659",2021-06-22,Elena,Female,29
+824,2025-07-29,Toys,102.07,10837,Quentin Mendoza,quentin.mendoza7813@hotmail.com,No especificado,"2513 Hillcrest Ave, Apt 21, Springfield, TX 11751",2022-10-28,Carlos,Male,60
+545,2025-02-10,Electronics,340.17,10958, Caleb Jimenez ,caleb.jimenez3357@hotmail.com,+1 (501) 720-2076," 6511 Sunset Blvd, Fairview, IL 10555 ",2019-11-27,Alice,Female,52
+928,2025-03-31,Clothing,175.87,10538,Ethan Gomez,ethan.gomez0881@protonmail.com,No especificado,"3208 Oak St, Riverside, FL 11031",No especificado,Carlos,Male,52
+257,2025-07-21,Home & Kitchen,No especificado,10577,Ivy Nelson,ivy.nelson8216@aol.com,+1 (585) 259-9350,"4207 Pine Ave, Apt 18, Greenville, FL 17241",2019-05-31,Carlos,Male,45
+716,2025-07-05,Toys,71.25,10005,Holly Alvarez,holly.alvarez1172@aol.com,+1 (966) 923-6861,No especificado,2022-12-01,Carlos,Male,36
+448,2025-08-12,Home & Kitchen,250.86,10974,Queen Collins,queen.collins2158@aol.com,+1 (207) 781-6493,"8711 Elm St, Franklin, IL 97334",2023-06-24,Hannah,Female,37
+295,2025-06-29,Home & Kitchen,23.18,10095,No especificado,riley.lewis6344@aol.com,+1 (758) 345-8312,"5228 Oak St, Apt 59, Greenville, FL 74584",2023-07-10,Carlos,Male,29
+579,2025-07-15,Electronics,28.83,10046,Zoe Parker,No especificado,+1 (798) 423-2341,"9097 Main St, Centerville, CA 65533",2023-06-08,Bob,Male,52
+159,2025-08-10,Sports,30.31,10265,Robert Jackson,robert.jackson4245@mail.com,+1 (232) 666-8167,"2392 Lakeview Dr, Apt 44, Madison, CA 75405",No especificado,Elena,Female,60
+532,2025-08-14,Home & Kitchen,444.89,10275,Amber Brown,amber.brown5014@protonmail.com,No especificado,"4719 Oak St, Arlington, NY 53905",2023-11-28,George,Female,37
+649,2025-02-12,Home & Kitchen,350.12,10464, Delilah Price ,delilah.price3874@protonmail.com,No especificado," 5724 Maple Dr, Apt 99, Greenville, CA 80177 ",2020-11-27,Diana,Female,50
+919,2025-04-25,Sports,293.19,10249, Lauren Moore ,No especificado,+1 (571) 910-1418,"5735 Lakeview Dr, Springfield, TX 87297",2019-11-12,Bob,Male,30
+733,2025-09-02,Clothing,473.5,10234,Oscar Clark,No especificado,No especificado,"4396 Lakeview Dr, Clinton, FL 99587",2019-04-30,Carlos,Male,54
+375,2025-02-09,Toys,319.01,10594, Ray Lopez ,ray.lopez6714@outlook.com,+1 (942) 547-4494," 6419 Main St, Apt 2, Clinton, NY 26862 ",2023-11-28,Alice,Female,36
+860,2025-04-05,Sports,436.25,102810,Holly Johnson,holly.johnson1984@aol.com,+1 (469) 948-7007,"5345 Washington Blvd, Greenville, TX 53984",No especificado,Hannah,Female,32
+689,2025-01-10,Sports,290.68,10424, Ray Wilson ,ray.wilson0036@mail.com,+1 (770) 481-6594,"603 Maple Dr, Georgetown, FL 85425",2021-03-04,Bob,Male,31
+688,2025-08-13,Sports,364.7,10216,Jane Hernandez,jane.hernandez9763@hotmail.com,+1 (362) 740-7950,"8346 Sunset Blvd, Riverside, TX 48262",2023-03-18,Frank,Male,31
+394,2025-03-18,Clothing,318.19,102811, Kyle Lewis ,kyle.lewis6029@gmail.com,+1 (956) 704-3872,"7057 Elm St, Madison, TX 35568",2023-07-25,George,Female,40
+895,2025-07-06,Toys,414.22,105810,Alice Reed,alice.reed5621@yahoo.com,No especificado,"5622 Cedar Ln, Greenville, NY 27327",2023-09-07,Frank,Male,33
+423,2025-02-16,Electronics,439.16,10789,Owen Hall,owen.hall7375@hotmail.com,+1 (946) 658-1605,"6196 Sunset Blvd, Springfield, FL 33245",2023-10-25,Elena,Female,26
+163,2025-05-10,Home & Kitchen,496.66,10744,Zoe Nelson,No especificado,+1 (207) 573-3782,No especificado,2020-01-19,Bob,Female,34
+125,2025-06-03,Electronics,319.8,10415,Kelly Williams,kelly.williams6633@gmail.com,+1 (903) 663-3338,"5639 Main St, Springfield, IL 09144",2023-04-28,George,Female,48
+740,2025-05-31,Home & Kitchen,406.38,106011,Oscar Ward,oscar.ward7439@hotmail.com,No especificado,"1497 Main St, Georgetown, IL 57416",2021-01-25,Alice,Female,50
+374,2025-04-27,Sports,380.71,10704,Edward Ramirez,edward.ramirez3553@yahoo.com,+1 (388) 866-5143,"8042 Washington Blvd, Georgetown, IL 08658",2023-03-12,Frank,Female,27
+98,2025-09-07,Toys,279.09,10503,Kelly Sanchez,kelly.sanchez8089@outlook.com,No especificado,"4190 Main St, Apt 55, Greenville, FL 36050",2023-12-15,Elena,Female,60
+429,2025-07-19,Toys,435.63,10063,No especificado,yuri.baker7279@yahoo.com,+1 (569) 825-5708,"2771 Lakeview Dr, Apt 11, Greenville, NY 33190",2021-12-28,Hannah,Female,47
+818,2025-02-06,Home & Kitchen,278.49,10395, Ethan Smith ,No especificado,+1 (949) 396-4791,"3740 Elm St, Riverside, CA 33791",2020-01-10,Bob,Female,56
+644,2025-04-24,Home & Kitchen,320.02,107810,Owen Campbell,owen.campbell1143@gmail.com,+1 (262) 559-1116,"7189 Elm St, Riverside, CA 48561",2022-02-06,Bob,Female,30
+855,No especificado,Home & Kitchen,No especificado,105811,Ophelia Jackson,ophelia.jackson8249@hotmail.com,+1 (587) 951-3187,"4038 Pine Ave, Apt 76, Clinton, IL 43853",2022-12-25,Diana,Female,42
+203,2025-01-01,No especificado,No especificado,10689,Tina Nelson,tina.nelson1607@mail.com,No especificado,"3355 Oak St, Apt 45, Riverside, FL 69852",2023-06-08,Carlos,Male,59
+117,2025-08-05,Toys,127.07,105812,Noah Alvarez,noah.alvarez9404@gmail.com,+1 (608) 683-5420,"6454 Lakeview Dr, Centerville, TX 07208",2021-01-07,Bob,Male,58
+168,2025-02-02,Clothing,72.62,10217,Diana Garcia,diana.garcia4318@yahoo.com,+1 (391) 930-8636,"5084 Hillcrest Ave, Georgetown, NY 03176",2019-07-21,Bob,Male,29
+245,2025-06-24,Electronics,477.75,10218,No especificado,riley.thompson2995@protonmail.com,+1 (368) 234-6237,"7838 Oak St, Georgetown, IL 79796",2021-07-30,Diana,Female,22
+811,2025-03-19,Electronics,412.78,10334,No especificado,kevin.gomez4301@mail.com,No especificado,"6925 Pine Ave, Springfield, NY 98006",2022-07-04,Bob,Male,35
+128,2025-01-25,Toys,108.55,10619, Henry Ross ,henry.ross1133@hotmail.com,+1 (658) 844-3734,"1131 Washington Blvd, Georgetown, NY 49973",2019-04-18,Alice,Female,36
+233,2025-04-12,Toys,136.34,10219,Noah Moore,noah.moore8002@outlook.com,+1 (274) 617-3989,"1028 Cedar Ln, Apt 99, Madison, TX 58488",No especificado,Diana,Female,32
+91,2025-06-26,Toys,109.3,10386,Holly Flores,No especificado,+1 (262) 360-7950," 2648 Hillcrest Ave, Apt 50, Greenville, FL 37415 ",2022-04-19,George,Female,38
+962,2025-06-12,Home & Kitchen,57.16,10855,William Flores,william.flores1803@protonmail.com,No especificado,"7477 Oak St, Apt 17, Arlington, CA 42920",2019-11-06,George,Female,61
+507,2025-02-08,Toys,478.24,10006,Grace Ward,grace.ward0328@gmail.com,+1 (346) 849-5575," 1171 Main St, Madison, CA 61595 ",No especificado,Bob,Male,58
+356,2025-03-23,Sports,290.71,10488, Penelope Morris ,penelope.morris1436@gmail.com,No especificado,"7045 Oak St, Madison, CA 43140",2022-11-25,Diana,Female,41
+261,2025-03-04,No especificado,No especificado,10796,Henry Hernandez,henry.hernandez1607@mail.com,No especificado,"8074 Maple Dr, Apt 94, Riverside, IL 28757",2022-05-29,Bob,Female,29
+628,2025-05-21,Home & Kitchen,140.67,10496,Dave Howard,dave.howard5230@protonmail.com,No especificado,No especificado,2019-10-01,Bob,Male,59
+282,2025-01-19,Toys,358.45,10655,Alice Hughes,alice.hughes2902@yahoo.com,+1 (967) 525-2416,"5711 Maple Dr, Apt 46, Arlington, CA 00644",2021-06-01,Frank,Female,42
+377,2025-06-06,Toys,175.94,10425,Nina Edwards,No especificado,+1 (952) 212-3300,"2396 Maple Dr, Apt 17, Springfield, TX 68711",2021-12-29,Hannah,Male,58
+209,2025-02-22,Toys,141.31,10057,Isabel Patel,isabel.patel3553@yahoo.com,+1 (647) 455-9272,"6404 Cedar Ln, Apt 84, Centerville, NY 72705",2021-11-21,Diana,Female,32
+784,2025-02-08,Home & Kitchen,No especificado,106012,Jack Williams,jack.williams7647@hotmail.com,+1 (417) 369-3178,No especificado,2021-12-06,Elena,Female,33
+465,2025-05-29,Toys,482.19,10567,Jacob Roberts,jacob.roberts3303@protonmail.com,+1 (694) 552-4151,"4347 Main St, Apt 65, Fairview, CA 96101",2021-06-04,Diana,Female,22
+25,No especificado,Toys,182.12,10465,Riley Howard,riley.howard8272@aol.com,No especificado,"6815 Maple Dr, Greenville, FL 75154",2022-05-13,Frank,Female,33
+714,2025-06-26,Home & Kitchen,402.28,10346,Queen Foster,queen.foster1668@outlook.com,+1 (352) 757-9249," 4958 Lakeview Dr, Apt 13, Centerville, NY 07022 ",2019-11-21,Elena,Female,38
+527,2025-04-22,Electronics,213.91,10444,No especificado,vanessa.howard0804@aol.com,+1 (303) 489-4779,"247 Sunset Blvd, Apt 71, Clinton, NY 99842",2023-03-10,Elena,Female,28
+696,2025-02-28,Toys,412.1,10266,Zoe Rogers,zoe.rogers3640@yahoo.com,No especificado," 3209 Oak St, Greenville, CA 54835 ",2022-01-23,Bob,Female,34
+882,2025-07-07,Clothing,183.32,10251,Peter Stewart,peter.stewart7192@hotmail.com,No especificado,"605 Oak St, Fairview, NY 78568",2021-07-27,Alice,Female,23
+431,2025-07-12,Clothing,148.18,10937,Ivy Baker,ivy.baker9237@gmail.com,+1 (625) 459-1219,"1582 Washington Blvd, Fairview, CA 55269",2023-05-08,Bob,Male,60
+711,2025-06-25,Clothing,262.48,10466,No especificado,hank.reyes6670@yahoo.com,+1 (456) 853-2137,"1880 Elm St, Apt 75, Centerville, TX 57430",2023-06-08,Bob,Male,26
+184,2025-03-17,Toys,32.04,10276, Queen Ortiz ,No especificado,+1 (812) 852-8016,No especificado,2023-07-24,Bob,Male,58
+801,2025-06-26,No especificado,310.45,10252, Walter Gomez ,No especificado,+1 (433) 217-3108,"1143 Sunset Blvd, Centerville, CA 13833",2022-05-07,Diana,Female,36
+540,2025-07-14,Sports,65.85,10142,Liam Young,liam.young9829@mail.com,No especificado,"8326 Sunset Blvd, Georgetown, TX 62905",No especificado,Carlos,Male,37
+187,2025-06-06,Electronics,329.05,10735, Victor Patel ,victor.patel3446@aol.com,No especificado," 4526 Elm St, Springfield, TX 89476 ",2021-01-09,Frank,Female,23
+955,2025-08-31,Electronics,386.96,102110,Grace Patel,grace.patel4875@gmail.com,+1 (587) 289-1936,"1932 Washington Blvd, Madison, NY 14108",2021-05-01,George,Female,46
+815,2025-05-24,No especificado,352.08,10196,Amber Rogers,amber.rogers3951@protonmail.com,+1 (523) 952-5390," 6227 Washington Blvd, Apt 60, Riverside, FL 26074 ",2022-05-06,Carlos,Male,64
+709,2025-04-19,Clothing,No especificado,10405,Ximena Wood,ximena.wood7565@yahoo.com,+1 (674) 922-7612,"9654 Washington Blvd, Apt 20, Franklin, NY 30637",No especificado,Diana,Female,33
+920,2025-04-12,Toys,492.5,10539,Xena Ruiz,xena.ruiz6918@mail.com,No especificado,"7998 Washington Blvd, Apt 22, Arlington, IL 90718",No especificado,Diana,Female,No especificado
+172,2025-06-08,Electronics,454.41,10033,Fiona Moore,fiona.moore8004@outlook.com,+1 (619) 987-4111,"7796 Sunset Blvd, Springfield, TX 10812",2020-02-23,Diana,Female,54
+761,2025-05-09,Clothing,297.37,10745,Quincy Foster,quincy.foster8938@mail.com,No especificado," 7835 Sunset Blvd, Apt 75, Centerville, CA 77621 ",2023-06-13,Bob,Female,29
+747,2025-04-29,Home & Kitchen,144.84,10378,Travis Ramos,travis.ramos5096@protonmail.com,+1 (239) 758-4098," 6301 Main St, Madison, NY 07251 ",2019-09-12,Elena,Female,45
+481,2025-04-06,Toys,360.57,10324,Natalie Harris,natalie.harris4829@gmail.com,+1 (640) 463-9947,"9823 Hillcrest Ave, Fairview, CA 81782",2022-03-15,Bob,Male,47
+501,2025-03-02,Sports,204.42,10325,Queen Stewart,queen.stewart7238@protonmail.com,+1 (450) 781-7262,"3060 Cedar Ln, Apt 49, Arlington, TX 57140",2021-05-10,George,Female,39
+620,2025-04-18,Electronics,368.55,10125,Tina Lee,tina.lee4132@yahoo.com,+1 (965) 391-3936,"9147 Elm St, Apt 29, Madison, NY 95170",2021-07-01,Frank,Female,37
+752,2025-05-27,Clothing,209.75,10025,Oscar Bennett,oscar.bennett4437@mail.com,No especificado,"9722 Maple Dr, Fairview, TX 34645",2021-04-16,Diana,Female,34
+381,2025-09-01,Clothing,154.65,10387,No especificado,ursula.morgan9099@protonmail.com,No especificado,"3143 Cedar Ln, Apt 43, Madison, CA 56472",2022-09-27,Bob,Female,60
+152,2025-05-01,Electronics,55.39,10941,Henry Cook,henry.cook0662@gmail.com,+1 (801) 677-7527,"8385 Main St, Fairview, FL 15318",2023-02-27,Elena,Female,49
+573,2025-08-23,Electronics,160.11,10064,Beth Cooper,beth.cooper9392@protonmail.com,+1 (452) 976-9127,"6083 Maple Dr, Georgetown, IL 81769",2019-06-29,Carlos,Male,38
+445,2025-02-08,Home & Kitchen,445.66,10489,Leo Watson,leo.watson6678@hotmail.com,+1 (371) 646-2344," 800 Hillcrest Ave, Georgetown, CA 22520 ",No especificado,Alice,Female,22
+986,2025-01-17,Electronics,307.34,10406,Bob Torres,bob.torres4945@outlook.com,No especificado,"4056 Pine Ave, Apt 20, Franklin, NY 84215",2019-01-31,George,Female,54
+482,2025-03-28,Sports,345.7,10426, Ian Williams ,ian.williams0963@outlook.com,+1 (763) 898-3266,"6429 Cedar Ln, Apt 12, Madison, NY 85081",2021-09-28,Alice,Female,31
+326,2025-05-09,Sports,386.71,10656,Felix Diaz,felix.diaz0147@yahoo.com,+1 (328) 694-6440,"1783 Main St, Greenville, CA 48855",2023-08-13,Alice,Female,39
+116,2025-06-22,Clothing,124.78,106013,Jack Brown,jack.brown0531@mail.com,+1 (205) 482-7687,"6605 Main St, Franklin, IL 72383",2021-09-14,Diana,Female,No especificado
+174,2025-08-14,Sports,59.94,10866,Edward Morris,edward.morris8138@hotmail.com,+1 (788) 779-4730,No especificado,2020-03-25,Hannah,Male,45
+576,2025-04-27,Home & Kitchen,74.57,10478,Kevin Adams,kevin.adams5135@hotmail.com,No especificado,"4917 Cedar Ln, Arlington, NY 54524",2020-09-25,Bob,Female,25
+705,2025-04-10,Clothing,365.79,10058,Fiona Reed,fiona.reed9515@protonmail.com,+1 (459) 996-1062,No especificado,No especificado,Elena,Female,60
+353,2025-06-08,Electronics,248.7,10705,Ximena Lee,ximena.lee9841@mail.com,+1 (925) 286-8413,No especificado,2021-03-21,Elena,Female,34
+517,2025-02-07,Clothing,124.76,10965,Hank Johnson,hank.johnson8447@protonmail.com,No especificado,No especificado,2021-11-23,Carlos,Male,15
+888,2025-03-04,Toys,116.03,10034,Kevin Jones,kevin.jones3648@outlook.com,+1 (784) 531-8947," 1792 Pine Ave, Arlington, CA 35149 ",2020-01-30,George,Female,27
+327,No especificado,Sports,371.54,10407,Grace Wood,grace.wood1485@protonmail.com,+1 (333) 381-6691," 4872 Elm St, Apt 6, Arlington, TX 74478 ",2022-11-10,Alice,Female,46
+923,2025-04-21,Toys,195.83,10736,Victor Morris,victor.morris1335@hotmail.com,+1 (208) 938-6227,"1444 Hillcrest Ave, Apt 57, Springfield, CA 76027",2021-04-15,Elena,Female,36
+972,2025-01-20,Clothing,488.77,10873,No especificado,diana.wilson2232@protonmail.com,No especificado,"3224 Maple Dr, Arlington, CA 20256",2022-06-17,Frank,Male,15
+284,2025-04-15,No especificado,127.43,10277,Xena Roberts,xena.roberts1799@gmail.com,+1 (519) 663-7300,"7637 Lakeview Dr, Apt 13, Georgetown, NY 54872",No especificado,Carlos,Male,29
+240,2025-04-18,Toys,496.95,10396,Jacob Gonzalez,jacob.gonzalez3311@hotmail.com,No especificado,"4199 Maple Dr, Riverside, TX 41835",2022-03-25,Hannah,Female,56
+479,2025-09-16,Clothing,40.8,10455,Nathan Lee,nathan.lee2646@protonmail.com,No especificado,"718 Cedar Ln, Arlington, CA 69750",2021-04-30,Bob,Male,29
+221,2025-01-20,Electronics,No especificado,10938, Catherine Sanders ,No especificado,No especificado,"7471 Oak St, Franklin, TX 83320",2022-11-08,Hannah,Male,24
+897,2025-05-08,Clothing,207.77,10388,Edward Campbell,No especificado,+1 (666) 696-4164,"8979 Cedar Ln, Arlington, FL 07838",2019-06-14,Elena,Female,47
+745,2025-02-20,Clothing,No especificado,10197,No especificado,penelope.kim4854@hotmail.com,+1 (638) 486-2312," 6577 Sunset Blvd, Apt 54, Springfield, TX 76014 ",2021-06-18,George,Female,38
+781,2025-05-13,Sports,330.03,10737, Liam Miller ,liam.miller4367@mail.com,+1 (959) 249-5136,"1226 Oak St, Clinton, TX 29669",No especificado,George,Female,22
+931,2025-08-07,Home & Kitchen,108.4,10657, Samantha Murphy ,samantha.murphy2073@protonmail.com,No especificado,"2436 Main St, Arlington, CA 07453",2020-08-22,Bob,Female,32
+904,2025-03-06,Toys,142.99,10578,Noah Wilson,noah.wilson7631@protonmail.com,+1 (690) 825-1629," 151 Sunset Blvd, Apt 88, Riverside, CA 98899 ",2021-04-02,Frank,Female,64
+961,2025-08-24,Toys,192.65,10925,Paul Jackson,paul.jackson3581@aol.com,No especificado,"8994 Main St, Madison, TX 65756",2023-01-10,Elena,Female,60
+952,2025-09-03,Electronics,10.99,10206, Violet Gomez ,violet.gomez7100@mail.com,+1 (301) 524-6812,"225 Oak St, Centerville, NY 83489",2019-11-26,Bob,Male,35
+113,2025-04-03,Sports,476.35,105310, Zach Nguyen ,zach.nguyen1419@hotmail.com,+1 (893) 301-1309,"7932 Sunset Blvd, Georgetown, FL 22516",2023-12-28,George,Female,48
+771,2025-06-25,Electronics,154.95,10133, Ivy Peterson ,ivy.peterson0173@outlook.com,+1 (492) 573-3125,"7824 Oak St, Centerville, IL 56080",No especificado,George,Female,53
+46,2025-02-04,Sports,313.06,10738,Amber Rogers,amber.rogers2699@outlook.com,No especificado,"3495 Cedar Ln, Apt 62, Clinton, FL 74985",2023-08-07,Hannah,Male,41
+933,2025-03-10,Sports,119.06,10504,Zoey Price,zoey.price8085@outlook.com,No especificado,"7538 Hillcrest Ave, Centerville, NY 28001",2021-07-27,Elena,Female,55
+470,2025-01-21,Toys,114.93,10456, Penelope Green ,penelope.green5896@hotmail.com,+1 (993) 990-9692,"8659 Cedar Ln, Franklin, CA 59227",2022-06-14,Carlos,Male,No especificado
+892,2025-02-28,Sports,446.82,104810,Felix Morales,No especificado,No especificado,"8225 Hillcrest Ave, Franklin, TX 19474",2023-10-22,Bob,Male,41
+370,2025-03-17,Toys,471.65,102812, Alice Hall ,No especificado,+1 (709) 352-1375,No especificado,2021-04-18,Bob,Female,46
+471,2025-05-02,Home & Kitchen,No especificado,10075, Natalie Martin ,natalie.martin1590@outlook.com,+1 (352) 765-9658,"6928 Elm St, Springfield, IL 52216",2021-08-27,Hannah,Male,34
+549,2025-04-21,Electronics,224.47,10186, Jane Wood ,jane.wood2223@aol.com,+1 (438) 239-4190,"6281 Main St, Arlington, CA 93226",2019-03-06,Carlos,Male,50
+515,2025-05-02,Toys,84.21,10326,Nathan Baker,No especificado,+1 (423) 503-1528,"1647 Washington Blvd, Arlington, NY 01588",2021-02-10,Alice,Female,38
+885,2025-06-27,Sports,187.68,10993,Ivy Johnson,ivy.johnson7712@hotmail.com,+1 (887) 973-3294,"3821 Oak St, Georgetown, NY 78766",2023-05-17,Bob,Female,29
+432,2025-01-27,Sports,67.15,10015,Nathan Allen,nathan.allen8513@yahoo.com,+1 (888) 872-6554,"5697 Hillcrest Ave, Apt 99, Franklin, IL 26270",2020-12-17,Elena,Female,57
+199,2025-05-25,Home & Kitchen,481.59,10016, Ximena Alvarez ,ximena.alvarez4359@hotmail.com,No especificado,"6159 Cedar Ln, Centerville, NY 31550",2022-04-14,Hannah,Female,53
+189,2025-04-27,Home & Kitchen,424.3,106110,Hailey Price,hailey.price6300@mail.com,+1 (801) 635-5193," 7007 Main St, Centerville, TX 14256 ",2021-11-15,Frank,Male,44
+362,2025-04-02,Electronics,298.86,107811,Fiona Campbell,fiona.campbell1596@protonmail.com,+1 (840) 539-7503,"3457 Elm St, Centerville, FL 20462",2021-12-14,Bob,Female,44
+970,2025-04-21,Sports,63.66,10765,Tyler Ortiz,tyler.ortiz9020@outlook.com,No especificado,"4433 Pine Ave, Fairview, FL 39022",2022-01-20,Bob,Female,46
+551,2025-05-06,Sports,428.24,10797,Kyle Lopez,kyle.lopez6313@protonmail.com,+1 (249) 438-3734," 6284 Pine Ave, Apt 30, Arlington, FL 62428 ",2019-05-07,Elena,Female,32
+263,2025-06-10,Sports,No especificado,10959,Kevin Gutierrez,kevin.gutierrez0226@outlook.com,+1 (773) 445-4458," 116 Sunset Blvd, Apt 80, Riverside, CA 44795 ",2021-01-13,Alice,Female,59
+318,2025-08-16,Toys,414.62,10856,Riley Evans,riley.evans8737@outlook.com,+1 (563) 875-8721," 7582 Pine Ave, Riverside, FL 61556 ",2022-08-29,Diana,Female,52
+437,2025-09-14,Sports,327.85,10076, Victor Ross ,victor.ross9692@outlook.com,+1 (725) 208-1775,"4031 Lakeview Dr, Springfield, IL 23132",No especificado,Alice,Female,31
+737,2025-06-10,Electronics,116.56,10207,No especificado,walter.thompson4249@yahoo.com,No especificado,"663 Oak St, Arlington, FL 44197",2022-01-08,Elena,Female,63
+4,2025-06-22,Sports,20.32,106111, Walter Evans ,walter.evans9757@hotmail.com,+1 (406) 811-1412,"9383 Elm St, Springfield, TX 27467",2021-09-22,Diana,Female,64
+354,2025-06-15,Sports,133.65,10104, Steven Martinez ,No especificado,No especificado,"112 Pine Ave, Apt 93, Greenville, TX 80859",2022-10-28,George,Female,28
+75,2025-01-17,Electronics,475.63,10554, Nina Reed ,nina.reed5820@hotmail.com,+1 (340) 827-4579,"6382 Hillcrest Ave, Springfield, NY 82263",2023-10-16,Hannah,Female,39
+58,2025-06-28,Electronics,239.54,10082, Emily Carter ,emily.carter8357@outlook.com,+1 (621) 248-7482,"4272 Hillcrest Ave, Clinton, NY 91057",2022-05-24,Diana,Female,63
+959,2025-04-29,Sports,215.49,10479,Jacob Ramos,jacob.ramos0484@aol.com,No especificado," 4792 Elm St, Apt 75, Arlington, CA 81705 ",2019-12-10,Diana,Female,61
+166,2025-07-28,Toys,162.84,10845,Jasmine Lopez,jasmine.lopez9221@yahoo.com,+1 (213) 214-1365,"1560 Washington Blvd, Franklin, FL 76205",2021-07-31,Alice,Female,60
+697,2025-06-09,Toys,205.53,10096,Patrick Turner,patrick.turner3143@mail.com,No especificado," 7190 Elm St, Madison, FL 46555 ",2022-02-09,Alice,Female,25
+443,2025-04-08,Electronics,322.04,10105, Travis Roberts ,travis.roberts9994@gmail.com,+1 (601) 925-1258," 4294 Main St, Franklin, NY 50831 ",2022-08-19,George,Female,40
+250,2025-06-03,Toys,176.21,10165,Paul Lee,paul.lee8086@aol.com,+1 (527) 693-8686,"4264 Elm St, Centerville, FL 50602",2021-05-23,Alice,Female,30
+412,2025-03-25,Sports,21.43,106014,Noah Taylor,No especificado,No especificado,"5022 Pine Ave, Riverside, IL 31589",2021-07-25,Frank,Male,43
+38,2025-08-25,Electronics,463.47,107812, George Ramos ,george.ramos6477@aol.com,+1 (418) 845-2928,"6536 Washington Blvd, Apt 63, Georgetown, TX 76787",2019-02-22,Elena,Female,16
+836,2025-07-11,Home & Kitchen,No especificado,10497,Samantha Chavez,samantha.chavez3216@mail.com,No especificado," 2064 Washington Blvd, Arlington, TX 29872 ",2021-03-02,George,Female,24
+760,2025-07-30,Clothing,357.3,10278, Aaron Perez ,aaron.perez5334@protonmail.com,No especificado," 109 Oak St, Greenville, TX 51699 ",2019-07-04,Frank,Male,37
+513,2025-04-05,Home & Kitchen,202.01,10828,Emily Adams,emily.adams3052@mail.com,No especificado,"9367 Maple Dr, Apt 25, Arlington, NY 97395",2019-05-12,George,Female,62
+9,2025-06-05,Sports,144.83,10208,Erin Young,erin.young0057@aol.com,+1 (705) 658-9746," 1475 Lakeview Dr, Springfield, IL 13494 ",2023-03-20,Hannah,Female,44
+64,2025-07-01,Home & Kitchen,373.08,102813, John Brown ,john.brown6727@protonmail.com,+1 (816) 734-1252,"1458 Washington Blvd, Riverside, NY 98303",2021-08-25,Diana,Female,31
+51,2025-07-13,Toys,No especificado,10126,Uma Harris,No especificado,+1 (373) 883-6608," 5559 Sunset Blvd, Greenville, IL 98040 ",2020-03-05,Hannah,Female,35
+927,2025-02-09,Sports,295.0,10083,Penelope Hughes,penelope.hughes4301@yahoo.com,No especificado,"9658 Washington Blvd, Georgetown, NY 15749",2020-05-21,Carlos,Male,51
+396,2025-01-22,Toys,137.46,107813,Vanessa Roberts,vanessa.roberts3707@protonmail.com,+1 (528) 437-3238,"3603 Main St, Apt 21, Georgetown, FL 17804",2021-09-09,Frank,Female,47
+602,2025-06-06,Electronics,237.04,10798,Steven Cox,steven.cox9828@hotmail.com,+1 (908) 515-3829,"3962 Main St, Franklin, IL 93644",2021-11-19,Diana,Female,27
+622,No especificado,Clothing,378.21,10677,Zoey Nelson,No especificado,No especificado,"7001 Washington Blvd, Apt 92, Springfield, TX 23167",2023-05-23,Bob,Male,32
+30,2025-06-07,Electronics,225.98,10166,Jacob Turner,jacob.turner1907@aol.com,+1 (808) 745-2150,No especificado,No especificado,Frank,Female,49
+530,2025-02-18,Sports,249.31,102814, Felix Taylor ,felix.taylor5568@mail.com,No especificado,"7206 Elm St, Madison, NY 75655",2020-04-03,George,Female,52
+987,2025-04-14,Sports,459.45,10427,Hank Smith,hank.smith6804@yahoo.com,+1 (997) 530-1656,"1356 Cedar Ln, Greenville, NY 92071",2022-12-20,Carlos,Male,51
+610,2025-04-24,Electronics,68.29,10867,Gloria Bennett,gloria.bennett6511@protonmail.com,+1 (704) 871-3730,No especificado,2020-01-20,George,Female,56
+345,No especificado,Toys,494.08,10966,Steven Brooks,steven.brooks9449@aol.com,+1 (512) 832-8060,"5533 Maple Dr, Franklin, IL 38888",2023-02-02,Hannah,Female,64
+498,2025-05-14,Sports,327.56,10059,Walter Perez,walter.perez1837@yahoo.com,+1 (590) 510-5298,"2301 Washington Blvd, Centerville, IL 26029",2020-06-26,Frank,Male,56
+911,2025-02-23,Clothing,263.68,10445,Paul Thompson,paul.thompson3637@protonmail.com,+1 (363) 950-1688,"5730 Washington Blvd, Arlington, IL 08074",2023-10-10,Carlos,Male,31
+228,No especificado,Clothing,200.59,10975,No especificado,grace.moore4504@hotmail.com,No especificado,"7246 Oak St, Centerville, FL 89795",2019-10-22,Elena,Female,61
+519,2025-02-09,Toys,139.35,10498, Lauren Nguyen ,lauren.nguyen5507@outlook.com,No especificado," 4202 Sunset Blvd, Apt 94, Franklin, IL 34663 ",2019-07-10,Diana,Female,34
+120,2025-01-01,Electronics,99.84,10906,Bryan Hernandez,bryan.hernandez8471@mail.com,No especificado,"2061 Lakeview Dr, Greenville, CA 71872",2019-07-25,Bob,Male,22
+42,2025-01-03,Electronics,464.97,10775,Felix Robinson,felix.robinson5409@aol.com,+1 (344) 403-7573," 8892 Pine Ave, Riverside, NY 88294 ",No especificado,Alice,Female,35
+668,2025-07-27,Electronics,42.74,10894,Isabel Hughes,isabel.hughes3616@protonmail.com,+1 (479) 407-3236,"4695 Elm St, Madison, NY 16286",2020-02-24,Alice,Female,43
+871,2025-03-16,No especificado,187.05,10816, Beth Foster ,beth.foster2453@gmail.com,+1 (308) 960-4085,"8652 Pine Ave, Clinton, FL 74182",2019-04-18,Diana,Female,52
+26,2025-08-03,Electronics,140.99,105311,Jocelyn Morris,jocelyn.morris0989@outlook.com,+1 (705) 838-1831,"780 Main St, Apt 44, Georgetown, FL 16917",2022-12-06,Diana,Female,43
+543,2025-07-03,Home & Kitchen,398.32,10776,George Ward,george.ward3659@mail.com,+1 (497) 265-3635,"2269 Pine Ave, Clinton, NY 38679",2019-05-19,Frank,Male,60
+93,2025-08-30,Clothing,231.56,10187, Gloria Morris ,gloria.morris3406@protonmail.com,+1 (647) 595-8125,"4814 Main St, Arlington, NY 79620",2021-03-11,Alice,Female,56
+851,2025-01-08,Electronics,424.78,104710,Tina Campbell,No especificado,+1 (618) 335-3495,"8788 Elm St, Apt 8, Arlington, CA 18523",2023-03-02,Carlos,Male,27
+868,2025-03-25,Toys,48.11,102111, Leo Bailey ,leo.bailey6620@mail.com,No especificado,"9602 Hillcrest Ave, Madison, TX 13212",2023-11-12,Diana,Female,58
+646,2025-06-08,Electronics,420.3,10363,Erin Gonzalez,erin.gonzalez9585@yahoo.com,No especificado,"1162 Maple Dr, Fairview, TX 00769",2022-01-21,Diana,Female,41
+357,2025-05-25,Electronics,388.13,10942,Fiona Torres,fiona.torres1065@gmail.com,+1 (393) 591-7468,"1355 Cedar Ln, Apt 62, Springfield, CA 78737",2020-05-06,Elena,Female,22
+605,2025-06-06,Toys,293.49,105813,No especificado,vanessa.collins5752@hotmail.com,No especificado,"7396 Sunset Blvd, Apt 99, Centerville, IL 06396",2021-05-31,Elena,Female,37
+939,2025-01-01,Sports,337.01,10829,Beth Lewis,beth.lewis9102@protonmail.com,+1 (541) 303-4322," 4612 Oak St, Arlington, CA 34864 ",2022-02-09,Alice,Male,43
+310,No especificado,No especificado,61.67,104711,Uma Chavez,uma.chavez7080@yahoo.com,No especificado,"5167 Lakeview Dr, Apt 22, Georgetown, TX 27078",2022-07-22,George,Female,51
+329,2025-07-17,Toys,437.01,10777,Jocelyn Johnson,jocelyn.johnson9649@aol.com,No especificado,"2138 Hillcrest Ave, Madison, TX 64234",2019-03-31,Diana,Female,52
+757,2025-01-26,Clothing,No especificado,10355,Jacob Anderson,jacob.anderson7619@yahoo.com,No especificado,"7613 Elm St, Arlington, NY 20748",2020-04-20,Alice,Female,37
+814,2025-02-16,Electronics,153.29,10167, Daniel Watson ,daniel.watson0642@hotmail.com,+1 (715) 465-7571,"6567 Main St, Georgetown, NY 95485",2019-02-16,George,Female,44
+366,2025-01-02,Electronics,26.65,10084, Owen Taylor ,owen.taylor5583@mail.com,No especificado,"1158 Sunset Blvd, Clinton, NY 90823",2021-09-13,Alice,Female,23
+665,2025-01-04,Home & Kitchen,No especificado,10916,Travis Brown,travis.brown7571@protonmail.com,No especificado," 5850 Sunset Blvd, Greenville, TX 93034 ",2020-07-08,Hannah,Male,42
+262,2025-09-11,Clothing,372.88,10746,Tyler Martin,tyler.martin3734@protonmail.com,+1 (434) 408-4823," 3477 Cedar Ln, Apt 37, Clinton, NY 07125 ",2022-10-19,Diana,Female,57
+548,2025-05-21,Clothing,463.56,10874,Aaron Bailey,aaron.bailey3227@hotmail.com,+1 (312) 589-1112,"6065 Hillcrest Ave, Apt 43, Georgetown, CA 37148",No especificado,Alice,Female,44
+144,2025-07-12,Toys,144.82,10198,Xander Turner,xander.turner9981@yahoo.com,No especificado," 2433 Main St, Riverside, TX 65663 ",2020-12-07,Alice,Female,34
+294,2025-01-26,Home & Kitchen,5.01,10106,Holly Williams,holly.williams3105@gmail.com,+1 (623) 414-7787,"9648 Elm St, Georgetown, TX 26529",2022-07-24,Bob,Male,59
+469,2025-08-03,Toys,362.46,10035, Robert Wood ,robert.wood7352@hotmail.com,+1 (895) 856-5475,"323 Washington Blvd, Apt 33, Centerville, FL 56442",2020-08-07,Bob,Male,64
+641,2025-08-04,Clothing,97.14,10983,Xander Baker,No especificado,+1 (253) 347-7462,No especificado,2022-12-19,Elena,Female,57
+992,2025-06-13,No especificado,444.76,10188, Nathan Carter ,nathan.carter3588@outlook.com,+1 (865) 841-5623,"1714 Pine Ave, Centerville, CA 67931",2022-12-16,Carlos,Male,59
+123,2025-08-20,Toys,263.64,10546,Wendy Ruiz,wendy.ruiz9481@hotmail.com,No especificado,"3149 Cedar Ln, Arlington, NY 82203",2020-01-28,Alice,Female,35
+114,2025-08-11,Sports,352.76,10648, Tina Reed ,tina.reed7360@gmail.com,+1 (660) 889-6216,"3210 Sunset Blvd, Apt 60, Franklin, FL 99169",2020-07-24,George,Female,56
+635,2025-01-13,Sports,87.64,10155, Ian Sanchez ,ian.sanchez1086@gmail.com,+1 (855) 349-5292,"8245 Washington Blvd, Fairview, TX 85804",2019-05-31,Elena,Female,47
+74,2025-01-05,Electronics,477.78,10225, Rebecca Walker ,rebecca.walker9178@gmail.com,+1 (326) 773-2000," 4115 Washington Blvd, Apt 20, Riverside, TX 45119 ",No especificado,Elena,Female,37
+382,2025-06-03,Toys,No especificado,10279,Robert Foster,robert.foster9538@outlook.com,No especificado,No especificado,2019-08-06,Hannah,Female,25
+536,2025-04-30,Sports,400.2,10739,Steven Lee,steven.lee5997@gmail.com,+1 (857) 717-7943," 9162 Pine Ave, Springfield, TX 55319 ",2023-09-10,George,Female,46
+768,2025-09-04,Sports,212.38,10017,Nathan Hill,nathan.hill1692@protonmail.com,+1 (592) 470-2937,"727 Washington Blvd, Apt 82, Centerville, TX 77814",2021-01-24,Alice,Female,24
+913,2025-02-10,Clothing,479.11,100510, Noah Perez ,noah.perez5943@mail.com,+1 (761) 537-1027,"7516 Lakeview Dr, Arlington, TX 81084",2021-03-26,Hannah,Male,34
+439,2025-05-27,Toys,116.93,10626, Gloria Hill ,gloria.hill3960@aol.com,No especificado," 5467 Cedar Ln, Centerville, IL 73607 ",2023-11-09,George,Female,57
+468,2025-05-17,Toys,325.67,10189, Ximena Ortiz ,ximena.ortiz2862@yahoo.com,No especificado," 3898 Washington Blvd, Apt 1, Clinton, NY 04581 ",2021-08-22,Alice,Female,31
+890,2025-09-08,Clothing,169.12,10026,Penelope Davis,penelope.davis4442@aol.com,No especificado,"2515 Oak St, Apt 9, Springfield, NY 96888",2022-09-01,Diana,Female,25
+922,2025-07-12,Toys,384.95,10027,Owen Ortiz,owen.ortiz7860@yahoo.com,+1 (560) 291-2948,"7430 Main St, Apt 6, Riverside, FL 74121",2022-04-07,Hannah,Male,32
+645,2025-06-03,Sports,27.6,102710,Logan Ward,logan.ward4355@outlook.com,No especificado,"4734 Cedar Ln, Fairview, IL 39738",2022-06-12,Frank,Male,54
+444,2025-08-30,Electronics,74.7,10895,Uma Smith,uma.smith6548@yahoo.com,+1 (928) 894-6464,"4377 Maple Dr, Arlington, FL 47500",2020-03-23,Alice,Female,53
+775,2025-05-25,Sports,144.1,10317,Nina Chavez,nina.chavez7320@mail.com,+1 (290) 663-6008,"544 Elm St, Centerville, FL 17430",2023-04-03,Frank,Female,39
+738,2025-01-13,Clothing,258.76,10327,No especificado,No especificado,+1 (942) 780-8583," 460 Washington Blvd, Apt 86, Madison, CA 22517 ",2023-12-19,Hannah,Female,38
+982,2025-08-09,Clothing,55.75,10036,Wendy Clark,wendy.clark1975@yahoo.com,+1 (759) 249-2892,"8688 Lakeview Dr, Centerville, IL 70793",2021-12-26,Hannah,Female,29
+1000,2025-04-02,Home & Kitchen,42.42,10943,Yvonne Young,yvonne.young8635@gmail.com,+1 (345) 387-6657,"4444 Maple Dr, Apt 20, Franklin, NY 11110",2021-07-05,Alice,Female,31
+680,2025-01-23,Electronics,161.89,10065,Jasmine Diaz,jasmine.diaz5244@mail.com,No especificado," 8453 Lakeview Dr, Centerville, TX 67271 ",2023-02-07,George,Female,26
+597,2025-08-12,Sports,218.34,10347,Catherine Kelly,catherine.kelly6637@outlook.com,+1 (715) 354-1280,"5814 Lakeview Dr, Apt 78, Greenville, FL 71849",2022-07-11,George,Female,120
+371,2025-06-02,Clothing,13.91,10226, Queen Chavez ,queen.chavez5843@protonmail.com,+1 (892) 598-9023,"9649 Oak St, Madison, TX 82919",2020-11-28,Carlos,Male,43
+957,2025-03-25,Electronics,66.56,108210,Bob Wright,bob.wright0270@outlook.com,+1 (502) 635-6252,"2932 Washington Blvd, Fairview, FL 58095",2023-04-01,Elena,Female,46
+62,2025-05-27,Electronics,258.01,104811,No especificado,No especificado,No especificado,"8570 Lakeview Dr, Apt 60, Clinton, TX 45051",2023-12-17,Frank,Female,47
+249,2025-08-12,Clothing,7.16,10253, Jack Evans ,jack.evans8943@aol.com,+1 (375) 333-2577,"3830 Maple Dr, Greenville, NY 22931",2021-05-08,George,Female,53
+774,2025-09-17,Toys,48.86,106610,Yuri Campbell,yuri.campbell3035@aol.com,+1 (215) 316-7045,"9208 Elm St, Apt 8, Georgetown, NY 29654",2020-02-13,Bob,Male,26
+452,2025-04-02,Home & Kitchen,258.62,10817,No especificado,quentin.ramirez7039@protonmail.com,+1 (279) 584-1951,"952 Oak St, Greenville, NY 78494",2021-05-24,Hannah,Male,No especificado
+533,2025-08-15,Home & Kitchen,241.04,10547,Quincy Cook,quincy.cook6130@outlook.com,+1 (783) 649-6621,"4422 Maple Dr, Apt 26, Centerville, NY 74139",2019-07-08,Alice,Female,No especificado
+264,2025-07-21,Sports,101.94,10634, Ulysses Peterson ,No especificado,+1 (525) 247-1704," 2201 Sunset Blvd, Arlington, TX 51987 ",2020-11-18,George,Female,61
+421,2025-08-24,Home & Kitchen,182.56,10356, Sara Kim ,sara.kim7183@protonmail.com,+1 (678) 341-1827,No especificado,2020-08-26,Bob,Male,35
+205,2025-07-09,No especificado,197.05,10579,Adrian Hill,No especificado,No especificado,No especificado,2020-09-07,Alice,Female,26
+974,2025-02-04,Toys,454.06,10397, Yosef Gonzalez ,No especificado,+1 (280) 366-7624," 659 Main St, Apt 79, Franklin, CA 37766 ",2023-12-01,Elena,Male,35
+454,2025-04-13,Clothing,196.34,10917, Tina Young ,tina.young8170@aol.com,+1 (532) 694-8613," 3804 Maple Dr, Madison, IL 58821 ",No especificado,Hannah,Male,48
+18,2025-01-12,Sports,225.54,109510,Delilah Walker,delilah.walker0803@outlook.com,+1 (974) 820-9780,"5546 Sunset Blvd, Georgetown, IL 12630",2022-01-01,Elena,Female,23
+133,2025-06-27,Sports,151.17,10295,Zach Sanders,zach.sanders5330@gmail.com,+1 (501) 208-9275,No especificado,2019-03-24,Frank,Male,60
+251,2025-05-09,Toys,483.38,10085,No especificado,nina.gomez6681@yahoo.com,No especificado," 388 Cedar Ln, Centerville, IL 21433 ",2020-09-10,Diana,Female,62
+299,2025-08-17,Home & Kitchen,471.15,10254,No especificado,peter.brooks3514@hotmail.com,+1 (956) 590-6407," 5458 Hillcrest Ave, Madison, NY 51636 ",2023-05-22,Carlos,Male,42
+968,2025-08-13,Clothing,164.23,10499, Isaac Ramos ,isaac.ramos1564@hotmail.com,No especificado,"2858 Lakeview Dr, Apt 96, Centerville, NY 83112",No especificado,Elena,Female,36
+534,2025-09-08,No especificado,111.79,104712,No especificado,marcus.alvarez3022@gmail.com,+1 (941) 811-1353,"9055 Cedar Ln, Franklin, FL 86498",2023-05-24,Bob,Male,56
+794,No especificado,Home & Kitchen,12.27,10635,Travis Thomas,travis.thomas3244@protonmail.com,+1 (817) 842-7294," 975 Maple Dr, Greenville, IL 52019 ",2021-10-12,Hannah,Male,64
+800,2025-02-15,Sports,16.56,10747,Henry Gomez,No especificado,+1 (886) 305-1764," 396 Sunset Blvd, Greenville, NY 44018 ",No especificado,Carlos,Male,56
+676,2025-01-02,Sports,313.09,10357, Ophelia Murphy ,ophelia.murphy7034@yahoo.com,+1 (514) 791-5636,"3653 Pine Ave, Apt 10, Arlington, TX 99483",2023-12-17,Hannah,Male,42
+835,2025-05-28,Electronics,186.01,10028, Adrian Allen ,adrian.allen1816@yahoo.com,+1 (637) 641-2101,No especificado,2022-07-16,Alice,Female,31
+453,2025-09-08,Clothing,221.12,10296, Noah Garcia ,noah.garcia1031@mail.com,+1 (606) 840-5327,"119 Elm St, Clinton, FL 43761",2021-12-16,Alice,Female,53
+750,2025-01-11,Sports,281.53,108211,Frank Stewart,frank.stewart2091@aol.com,+1 (768) 726-2445,No especificado,2019-10-19,Hannah,Female,27
+151,2025-06-30,Toys,106.32,107814,Zach Bailey,zach.bailey6207@mail.com,+1 (716) 878-3729," 9734 Hillcrest Ave, Clinton, FL 81398 ",2022-08-13,Alice,Female,27
+989,2025-01-12,Toys,30.92,10143,Ophelia Ross,ophelia.ross1343@yahoo.com,+1 (520) 906-2906,"4175 Cedar Ln, Riverside, IL 51847",2022-01-13,Diana,Female,48
+844,2025-04-30,Sports,No especificado,10748,Beth Gonzalez,beth.gonzalez3276@outlook.com,No especificado,"6933 Washington Blvd, Apt 100, Franklin, IL 70227",2021-08-12,Hannah,Male,40
+258,2025-09-14,Sports,248.97,105312, Owen Jimenez ,owen.jimenez7087@gmail.com,+1 (840) 881-8706,"7299 Main St, Apt 58, Clinton, CA 36920",2019-03-23,Elena,Female,54
+222,2025-04-28,Clothing,446.69,10967,Uma Wood,uma.wood9750@outlook.com,+1 (735) 451-6091,"8846 Lakeview Dr, Centerville, NY 83094",2022-01-05,George,Female,40
+337,2025-01-17,Toys,188.06,10446, Peter Mitchell ,peter.mitchell0014@mail.com,+1 (296) 351-6290," 3763 Main St, Franklin, IL 11731 ",2019-12-12,Carlos,Male,48
+196,2025-03-27,Clothing,481.57,10868,Ulysses Hall,ulysses.hall6343@mail.com,No especificado,"715 Hillcrest Ave, Franklin, CA 77019",2022-02-02,Diana,Female,47
+753,2025-04-12,Toys,451.46,10267,Rebecca James,rebecca.james8482@aol.com,+1 (949) 794-9117,"2880 Washington Blvd, Riverside, IL 75510",2020-12-27,Diana,Female,64
+790,2025-04-23,Sports,303.46,10358,Henry Parker,henry.parker8842@aol.com,+1 (693) 231-4111,"6144 Main St, Apt 19, Riverside, CA 04993",No especificado,Alice,Female,30
+175,2025-03-03,Toys,193.3,10636,No especificado,hank.wilson5722@aol.com,+1 (862) 767-1555,"1890 Lakeview Dr, Apt 11, Franklin, TX 81733",No especificado,Frank,Male,36
+708,2025-03-23,Sports,105.6,10047,Tyler Ortiz,tyler.ortiz9453@hotmail.com,+1 (689) 857-3454," 8995 Washington Blvd, Franklin, FL 88610 ",2020-05-23,Diana,Female,24
+413,2025-08-21,Toys,381.71,10727,Lauren Turner,lauren.turner1214@mail.com,+1 (436) 346-1223," 5802 Sunset Blvd, Springfield, TX 33347 ",2019-08-23,Elena,Female,50
+596,2025-01-08,Clothing,64.91,105814, Quinn Castillo ,quinn.castillo5334@hotmail.com,+1 (539) 565-1076," 6766 Maple Dr, Clinton, IL 57790 ",No especificado,Frank,Female,24
+197,2025-04-14,Home & Kitchen,292.33,105815,Liam Robinson,liam.robinson6774@hotmail.com,No especificado,"1683 Main St, Madison, TX 61166",2021-01-07,Hannah,Male,53
+830,2025-07-14,Home & Kitchen,365.94,10097,Noah Moore,noah.moore6831@protonmail.com,+1 (940) 777-8528,"250 Elm St, Greenville, IL 35520",2023-09-29,Frank,Male,38
+924,2025-08-29,Clothing,41.09,102112,Natalie Lopez,natalie.lopez4422@protonmail.com,+1 (861) 597-1065,"5488 Washington Blvd, Greenville, TX 00757",2020-03-30,Frank,Female,45
+265,2025-03-31,Sports,402.96,107310, Jocelyn Ward ,No especificado,+1 (946) 346-2058,"479 Sunset Blvd, Apt 88, Riverside, NY 34160",2021-11-16,Bob,Female,41
+598,2025-02-27,Clothing,161.24,10568,Edward Sanchez,edward.sanchez8628@gmail.com,No especificado,"732 Cedar Ln, Arlington, CA 43299",2022-07-26,George,Female,49
+126,2025-08-24,Sports,71.55,109511,Molly Taylor,molly.taylor5863@gmail.com,+1 (623) 201-4783,"1053 Pine Ave, Clinton, TX 68089",2021-08-12,Diana,Female,30
+234,2025-06-02,Sports,256.9,10144,No especificado,logan.anderson3532@hotmail.com,+1 (718) 846-1855,No especificado,No especificado,George,Female,49
+935,2025-04-27,Clothing,244.29,10379,No especificado,jane.davis4714@outlook.com,+1 (453) 412-4428,"1152 Maple Dr, Arlington, IL 68740",2020-06-23,Hannah,Female,56
+802,2025-01-28,Sports,189.0,103710,Bob Anderson,bob.anderson6881@hotmail.com,+1 (965) 529-2709," 7152 Hillcrest Ave, Riverside, CA 74528 ",2020-05-15,Diana,Female,43
+600,2025-05-28,Clothing,61.35,10428,Tina Patel,tina.patel7450@mail.com,No especificado,No especificado,2019-07-19,Alice,Female,54
+756,2025-06-12,Sports,378.36,10268,Diana Clark,No especificado,+1 (525) 247-1701,"2179 Sunset Blvd, Georgetown, FL 08344",2021-04-23,Frank,Female,44
+827,2025-01-01,No especificado,255.6,107311,Ivy Nelson,ivy.nelson7924@hotmail.com,+1 (451) 637-8104,No especificado,2019-01-03,Bob,Female,43
+141,2025-04-17,Toys,177.67,10364,Jasmine Morris,jasmine.morris7438@protonmail.com,+1 (552) 512-6652," 9702 Hillcrest Ave, Fairview, FL 42951 ",2019-08-17,Diana,Female,64
+715,2025-06-20,Clothing,317.5,10926,Tyler Castillo,No especificado,No especificado,No especificado,2021-08-18,Elena,Female,44
+376,2025-04-23,Clothing,483.19,102711,Gloria Martinez,gloria.martinez8554@outlook.com,+1 (765) 612-5112,"7402 Maple Dr, Arlington, TX 46261",2023-12-22,Elena,Female,64
+704,2025-01-16,Toys,424.25,10555,Catherine Mendoza,catherine.mendoza7156@aol.com,+1 (209) 908-4506,"2991 Pine Ave, Springfield, CA 90522",2023-06-27,Diana,Female,29
+656,2025-09-03,Sports,218.11,10255, Molly Garcia ,molly.garcia0920@outlook.com,+1 (595) 257-8902,"1812 Pine Ave, Clinton, TX 99818",2022-12-07,Carlos,Male,23
+115,2025-08-12,Clothing,28.85,10505,Edward Ramirez,edward.ramirez3855@outlook.com,+1 (339) 512-4855,"9713 Elm St, Arlington, NY 39060",2023-10-01,Carlos,Male,22
+426,2025-06-10,Sports,172.74,10885,Jocelyn Stewart,jocelyn.stewart9617@mail.com,+1 (473) 753-4888,"948 Oak St, Fairview, IL 69947",2020-01-04,Alice,Female,33
+724,2025-02-06,Electronics,286.92,10127,Hank Castillo,No especificado,No especificado,"5022 Sunset Blvd, Centerville, NY 81350",2022-01-15,Carlos,Male,55
+550,2025-03-19,Electronics,No especificado,10128,Brianna Jones,brianna.jones8097@aol.com,+1 (852) 980-4868,"2307 Sunset Blvd, Georgetown, FL 00080",2021-02-15,George,Male,64
+789,2025-08-30,Electronics,297.61,105710, Alice Bennett ,alice.bennett3240@gmail.com,+1 (475) 390-2399," 739 Sunset Blvd, Apt 87, Springfield, FL 68893 ",2020-02-29,Elena,Female,48
+494,2025-04-25,Clothing,61.89,10658, Beth Morris ,beth.morris1186@gmail.com,+1 (495) 481-6873,"2147 Main St, Centerville, TX 18905",2022-05-30,George,Female,31
+555,2025-03-04,Sports,74.31,106112,Ximena Sanders,ximena.sanders0156@protonmail.com,+1 (334) 835-5192,No especificado,2020-06-11,Bob,Male,31
+491,2025-03-14,Toys,33.54,10968,Ethan Walker,ethan.walker7818@outlook.com,No especificado,"1455 Elm St, Arlington, CA 30783",2022-08-26,Elena,Female,46
+13,2025-06-19,Electronics,371.75,10706,Nina Rivera,nina.rivera6765@protonmail.com,+1 (924) 491-1922,"4270 Lakeview Dr, Greenville, NY 52490",2020-10-31,Carlos,Male,57
+937,2025-05-17,Electronics,130.92,100511,Vanessa Murphy,vanessa.murphy4823@outlook.com,+1 (355) 718-6902," 3417 Lakeview Dr, Centerville, NY 11132 ",2021-04-09,Hannah,Female,22
