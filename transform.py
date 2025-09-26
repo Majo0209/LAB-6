@@ -141,7 +141,7 @@ def clean_retail(df):
     if "transaction_id" in df_clean.columns:
         df_clean = resolver_ids_retail(df_clean)
 
-    # 🔑 Al final: reemplazar nulos con "No especificado" y convertir todo a str
+    
     df_clean = df_clean.fillna("No especificado").astype(str)
 
     return df_clean
